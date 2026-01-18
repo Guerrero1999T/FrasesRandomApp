@@ -1,0 +1,8005 @@
+{
+  "total": 2000,
+  "frases": [
+    {
+      "id": 1,
+      "texto": "Hoy es el día para empezar hoy."
+    },
+    {
+      "id": 2,
+      "texto": "Hoy es el día para empezar ahora."
+    },
+    {
+      "id": 3,
+      "texto": "Hoy es el día para empezar sin miedo."
+    },
+    {
+      "id": 4,
+      "texto": "Hoy es el día para empezar con humor."
+    },
+    {
+      "id": 5,
+      "texto": "Hoy es el día para empezar con ganas."
+    },
+    {
+      "id": 6,
+      "texto": "Hoy es el día para empezar a tu ritmo."
+    },
+    {
+      "id": 7,
+      "texto": "Hoy es el día para empezar con intención."
+    },
+    {
+      "id": 8,
+      "texto": "Hoy es el día para empezar sin excusas."
+    },
+    {
+      "id": 9,
+      "texto": "Hoy es el día para empezar mejor que ayer."
+    },
+    {
+      "id": 10,
+      "texto": "Hoy es el día para empezar en serio."
+    },
+    {
+      "id": 11,
+      "texto": "Hoy es el día para crecer hoy."
+    },
+    {
+      "id": 12,
+      "texto": "Hoy es el día para crecer ahora."
+    },
+    {
+      "id": 13,
+      "texto": "Hoy es el día para crecer sin miedo."
+    },
+    {
+      "id": 14,
+      "texto": "Hoy es el día para crecer con humor."
+    },
+    {
+      "id": 15,
+      "texto": "Hoy es el día para crecer con ganas."
+    },
+    {
+      "id": 16,
+      "texto": "Hoy es el día para crecer a tu ritmo."
+    },
+    {
+      "id": 17,
+      "texto": "Hoy es el día para crecer con intención."
+    },
+    {
+      "id": 18,
+      "texto": "Hoy es el día para crecer sin excusas."
+    },
+    {
+      "id": 19,
+      "texto": "Hoy es el día para crecer mejor que ayer."
+    },
+    {
+      "id": 20,
+      "texto": "Hoy es el día para crecer en serio."
+    },
+    {
+      "id": 21,
+      "texto": "Hoy es el día para intentar hoy."
+    },
+    {
+      "id": 22,
+      "texto": "Hoy es el día para intentar ahora."
+    },
+    {
+      "id": 23,
+      "texto": "Hoy es el día para intentar sin miedo."
+    },
+    {
+      "id": 24,
+      "texto": "Hoy es el día para intentar con humor."
+    },
+    {
+      "id": 25,
+      "texto": "Hoy es el día para intentar con ganas."
+    },
+    {
+      "id": 26,
+      "texto": "Hoy es el día para intentar a tu ritmo."
+    },
+    {
+      "id": 27,
+      "texto": "Hoy es el día para intentar con intención."
+    },
+    {
+      "id": 28,
+      "texto": "Hoy es el día para intentar sin excusas."
+    },
+    {
+      "id": 29,
+      "texto": "Hoy es el día para intentar mejor que ayer."
+    },
+    {
+      "id": 30,
+      "texto": "Hoy es el día para intentar en serio."
+    },
+    {
+      "id": 31,
+      "texto": "Hoy es el día para mejorar hoy."
+    },
+    {
+      "id": 32,
+      "texto": "Hoy es el día para mejorar ahora."
+    },
+    {
+      "id": 33,
+      "texto": "Hoy es el día para mejorar sin miedo."
+    },
+    {
+      "id": 34,
+      "texto": "Hoy es el día para mejorar con humor."
+    },
+    {
+      "id": 35,
+      "texto": "Hoy es el día para mejorar con ganas."
+    },
+    {
+      "id": 36,
+      "texto": "Hoy es el día para mejorar a tu ritmo."
+    },
+    {
+      "id": 37,
+      "texto": "Hoy es el día para mejorar con intención."
+    },
+    {
+      "id": 38,
+      "texto": "Hoy es el día para mejorar sin excusas."
+    },
+    {
+      "id": 39,
+      "texto": "Hoy es el día para mejorar mejor que ayer."
+    },
+    {
+      "id": 40,
+      "texto": "Hoy es el día para mejorar en serio."
+    },
+    {
+      "id": 41,
+      "texto": "Hoy es el día para aprender hoy."
+    },
+    {
+      "id": 42,
+      "texto": "Hoy es el día para aprender ahora."
+    },
+    {
+      "id": 43,
+      "texto": "Hoy es el día para aprender sin miedo."
+    },
+    {
+      "id": 44,
+      "texto": "Hoy es el día para aprender con humor."
+    },
+    {
+      "id": 45,
+      "texto": "Hoy es el día para aprender con ganas."
+    },
+    {
+      "id": 46,
+      "texto": "Hoy es el día para aprender a tu ritmo."
+    },
+    {
+      "id": 47,
+      "texto": "Hoy es el día para aprender con intención."
+    },
+    {
+      "id": 48,
+      "texto": "Hoy es el día para aprender sin excusas."
+    },
+    {
+      "id": 49,
+      "texto": "Hoy es el día para aprender mejor que ayer."
+    },
+    {
+      "id": 50,
+      "texto": "Hoy es el día para aprender en serio."
+    },
+    {
+      "id": 51,
+      "texto": "Hoy es el día para actuar hoy."
+    },
+    {
+      "id": 52,
+      "texto": "Hoy es el día para actuar ahora."
+    },
+    {
+      "id": 53,
+      "texto": "Hoy es el día para actuar sin miedo."
+    },
+    {
+      "id": 54,
+      "texto": "Hoy es el día para actuar con humor."
+    },
+    {
+      "id": 55,
+      "texto": "Hoy es el día para actuar con ganas."
+    },
+    {
+      "id": 56,
+      "texto": "Hoy es el día para actuar a tu ritmo."
+    },
+    {
+      "id": 57,
+      "texto": "Hoy es el día para actuar con intención."
+    },
+    {
+      "id": 58,
+      "texto": "Hoy es el día para actuar sin excusas."
+    },
+    {
+      "id": 59,
+      "texto": "Hoy es el día para actuar mejor que ayer."
+    },
+    {
+      "id": 60,
+      "texto": "Hoy es el día para actuar en serio."
+    },
+    {
+      "id": 61,
+      "texto": "Hoy es el día para disciplina hoy."
+    },
+    {
+      "id": 62,
+      "texto": "Hoy es el día para disciplina ahora."
+    },
+    {
+      "id": 63,
+      "texto": "Hoy es el día para disciplina sin miedo."
+    },
+    {
+      "id": 64,
+      "texto": "Hoy es el día para disciplina con humor."
+    },
+    {
+      "id": 65,
+      "texto": "Hoy es el día para disciplina con ganas."
+    },
+    {
+      "id": 66,
+      "texto": "Hoy es el día para disciplina a tu ritmo."
+    },
+    {
+      "id": 67,
+      "texto": "Hoy es el día para disciplina con intención."
+    },
+    {
+      "id": 68,
+      "texto": "Hoy es el día para disciplina sin excusas."
+    },
+    {
+      "id": 69,
+      "texto": "Hoy es el día para disciplina mejor que ayer."
+    },
+    {
+      "id": 70,
+      "texto": "Hoy es el día para disciplina en serio."
+    },
+    {
+      "id": 71,
+      "texto": "Hoy es el día para enfoque hoy."
+    },
+    {
+      "id": 72,
+      "texto": "Hoy es el día para enfoque ahora."
+    },
+    {
+      "id": 73,
+      "texto": "Hoy es el día para enfoque sin miedo."
+    },
+    {
+      "id": 74,
+      "texto": "Hoy es el día para enfoque con humor."
+    },
+    {
+      "id": 75,
+      "texto": "Hoy es el día para enfoque con ganas."
+    },
+    {
+      "id": 76,
+      "texto": "Hoy es el día para enfoque a tu ritmo."
+    },
+    {
+      "id": 77,
+      "texto": "Hoy es el día para enfoque con intención."
+    },
+    {
+      "id": 78,
+      "texto": "Hoy es el día para enfoque sin excusas."
+    },
+    {
+      "id": 79,
+      "texto": "Hoy es el día para enfoque mejor que ayer."
+    },
+    {
+      "id": 80,
+      "texto": "Hoy es el día para enfoque en serio."
+    },
+    {
+      "id": 81,
+      "texto": "Hoy es el día para valentía hoy."
+    },
+    {
+      "id": 82,
+      "texto": "Hoy es el día para valentía ahora."
+    },
+    {
+      "id": 83,
+      "texto": "Hoy es el día para valentía sin miedo."
+    },
+    {
+      "id": 84,
+      "texto": "Hoy es el día para valentía con humor."
+    },
+    {
+      "id": 85,
+      "texto": "Hoy es el día para valentía con ganas."
+    },
+    {
+      "id": 86,
+      "texto": "Hoy es el día para valentía a tu ritmo."
+    },
+    {
+      "id": 87,
+      "texto": "Hoy es el día para valentía con intención."
+    },
+    {
+      "id": 88,
+      "texto": "Hoy es el día para valentía sin excusas."
+    },
+    {
+      "id": 89,
+      "texto": "Hoy es el día para valentía mejor que ayer."
+    },
+    {
+      "id": 90,
+      "texto": "Hoy es el día para valentía en serio."
+    },
+    {
+      "id": 91,
+      "texto": "Hoy es el día para constancia hoy."
+    },
+    {
+      "id": 92,
+      "texto": "Hoy es el día para constancia ahora."
+    },
+    {
+      "id": 93,
+      "texto": "Hoy es el día para constancia sin miedo."
+    },
+    {
+      "id": 94,
+      "texto": "Hoy es el día para constancia con humor."
+    },
+    {
+      "id": 95,
+      "texto": "Hoy es el día para constancia con ganas."
+    },
+    {
+      "id": 96,
+      "texto": "Hoy es el día para constancia a tu ritmo."
+    },
+    {
+      "id": 97,
+      "texto": "Hoy es el día para constancia con intención."
+    },
+    {
+      "id": 98,
+      "texto": "Hoy es el día para constancia sin excusas."
+    },
+    {
+      "id": 99,
+      "texto": "Hoy es el día para constancia mejor que ayer."
+    },
+    {
+      "id": 100,
+      "texto": "Hoy es el día para constancia en serio."
+    },
+    {
+      "id": 101,
+      "texto": "Hoy es el día para acción hoy."
+    },
+    {
+      "id": 102,
+      "texto": "Hoy es el día para acción ahora."
+    },
+    {
+      "id": 103,
+      "texto": "Hoy es el día para acción sin miedo."
+    },
+    {
+      "id": 104,
+      "texto": "Hoy es el día para acción con humor."
+    },
+    {
+      "id": 105,
+      "texto": "Hoy es el día para acción con ganas."
+    },
+    {
+      "id": 106,
+      "texto": "Hoy es el día para acción a tu ritmo."
+    },
+    {
+      "id": 107,
+      "texto": "Hoy es el día para acción con intención."
+    },
+    {
+      "id": 108,
+      "texto": "Hoy es el día para acción sin excusas."
+    },
+    {
+      "id": 109,
+      "texto": "Hoy es el día para acción mejor que ayer."
+    },
+    {
+      "id": 110,
+      "texto": "Hoy es el día para acción en serio."
+    },
+    {
+      "id": 111,
+      "texto": "Hoy es el día para errores hoy."
+    },
+    {
+      "id": 112,
+      "texto": "Hoy es el día para errores ahora."
+    },
+    {
+      "id": 113,
+      "texto": "Hoy es el día para errores sin miedo."
+    },
+    {
+      "id": 114,
+      "texto": "Hoy es el día para errores con humor."
+    },
+    {
+      "id": 115,
+      "texto": "Hoy es el día para errores con ganas."
+    },
+    {
+      "id": 116,
+      "texto": "Hoy es el día para errores a tu ritmo."
+    },
+    {
+      "id": 117,
+      "texto": "Hoy es el día para errores con intención."
+    },
+    {
+      "id": 118,
+      "texto": "Hoy es el día para errores sin excusas."
+    },
+    {
+      "id": 119,
+      "texto": "Hoy es el día para errores mejor que ayer."
+    },
+    {
+      "id": 120,
+      "texto": "Hoy es el día para errores en serio."
+    },
+    {
+      "id": 121,
+      "texto": "Hoy es el día para excusa hoy."
+    },
+    {
+      "id": 122,
+      "texto": "Hoy es el día para excusa ahora."
+    },
+    {
+      "id": 123,
+      "texto": "Hoy es el día para excusa sin miedo."
+    },
+    {
+      "id": 124,
+      "texto": "Hoy es el día para excusa con humor."
+    },
+    {
+      "id": 125,
+      "texto": "Hoy es el día para excusa con ganas."
+    },
+    {
+      "id": 126,
+      "texto": "Hoy es el día para excusa a tu ritmo."
+    },
+    {
+      "id": 127,
+      "texto": "Hoy es el día para excusa con intención."
+    },
+    {
+      "id": 128,
+      "texto": "Hoy es el día para excusa sin excusas."
+    },
+    {
+      "id": 129,
+      "texto": "Hoy es el día para excusa mejor que ayer."
+    },
+    {
+      "id": 130,
+      "texto": "Hoy es el día para excusa en serio."
+    },
+    {
+      "id": 131,
+      "texto": "Hoy es el día para comodidad hoy."
+    },
+    {
+      "id": 132,
+      "texto": "Hoy es el día para comodidad ahora."
+    },
+    {
+      "id": 133,
+      "texto": "Hoy es el día para comodidad sin miedo."
+    },
+    {
+      "id": 134,
+      "texto": "Hoy es el día para comodidad con humor."
+    },
+    {
+      "id": 135,
+      "texto": "Hoy es el día para comodidad con ganas."
+    },
+    {
+      "id": 136,
+      "texto": "Hoy es el día para comodidad a tu ritmo."
+    },
+    {
+      "id": 137,
+      "texto": "Hoy es el día para comodidad con intención."
+    },
+    {
+      "id": 138,
+      "texto": "Hoy es el día para comodidad sin excusas."
+    },
+    {
+      "id": 139,
+      "texto": "Hoy es el día para comodidad mejor que ayer."
+    },
+    {
+      "id": 140,
+      "texto": "Hoy es el día para comodidad en serio."
+    },
+    {
+      "id": 141,
+      "texto": "Hoy es el día para progreso hoy."
+    },
+    {
+      "id": 142,
+      "texto": "Hoy es el día para progreso ahora."
+    },
+    {
+      "id": 143,
+      "texto": "Hoy es el día para progreso sin miedo."
+    },
+    {
+      "id": 144,
+      "texto": "Hoy es el día para progreso con humor."
+    },
+    {
+      "id": 145,
+      "texto": "Hoy es el día para progreso con ganas."
+    },
+    {
+      "id": 146,
+      "texto": "Hoy es el día para progreso a tu ritmo."
+    },
+    {
+      "id": 147,
+      "texto": "Hoy es el día para progreso con intención."
+    },
+    {
+      "id": 148,
+      "texto": "Hoy es el día para progreso sin excusas."
+    },
+    {
+      "id": 149,
+      "texto": "Hoy es el día para progreso mejor que ayer."
+    },
+    {
+      "id": 150,
+      "texto": "Hoy es el día para progreso en serio."
+    },
+    {
+      "id": 151,
+      "texto": "Hoy es el día para energía hoy."
+    },
+    {
+      "id": 152,
+      "texto": "Hoy es el día para energía ahora."
+    },
+    {
+      "id": 153,
+      "texto": "Hoy es el día para energía sin miedo."
+    },
+    {
+      "id": 154,
+      "texto": "Hoy es el día para energía con humor."
+    },
+    {
+      "id": 155,
+      "texto": "Hoy es el día para energía con ganas."
+    },
+    {
+      "id": 156,
+      "texto": "Hoy es el día para energía a tu ritmo."
+    },
+    {
+      "id": 157,
+      "texto": "Hoy es el día para energía con intención."
+    },
+    {
+      "id": 158,
+      "texto": "Hoy es el día para energía sin excusas."
+    },
+    {
+      "id": 159,
+      "texto": "Hoy es el día para energía mejor que ayer."
+    },
+    {
+      "id": 160,
+      "texto": "Hoy es el día para energía en serio."
+    },
+    {
+      "id": 161,
+      "texto": "Hoy es el día para humor hoy."
+    },
+    {
+      "id": 162,
+      "texto": "Hoy es el día para humor ahora."
+    },
+    {
+      "id": 163,
+      "texto": "Hoy es el día para humor sin miedo."
+    },
+    {
+      "id": 164,
+      "texto": "Hoy es el día para humor con humor."
+    },
+    {
+      "id": 165,
+      "texto": "Hoy es el día para humor con ganas."
+    },
+    {
+      "id": 166,
+      "texto": "Hoy es el día para humor a tu ritmo."
+    },
+    {
+      "id": 167,
+      "texto": "Hoy es el día para humor con intención."
+    },
+    {
+      "id": 168,
+      "texto": "Hoy es el día para humor sin excusas."
+    },
+    {
+      "id": 169,
+      "texto": "Hoy es el día para humor mejor que ayer."
+    },
+    {
+      "id": 170,
+      "texto": "Hoy es el día para humor en serio."
+    },
+    {
+      "id": 171,
+      "texto": "Hoy es el día para paciencia hoy."
+    },
+    {
+      "id": 172,
+      "texto": "Hoy es el día para paciencia ahora."
+    },
+    {
+      "id": 173,
+      "texto": "Hoy es el día para paciencia sin miedo."
+    },
+    {
+      "id": 174,
+      "texto": "Hoy es el día para paciencia con humor."
+    },
+    {
+      "id": 175,
+      "texto": "Hoy es el día para paciencia con ganas."
+    },
+    {
+      "id": 176,
+      "texto": "Hoy es el día para paciencia a tu ritmo."
+    },
+    {
+      "id": 177,
+      "texto": "Hoy es el día para paciencia con intención."
+    },
+    {
+      "id": 178,
+      "texto": "Hoy es el día para paciencia sin excusas."
+    },
+    {
+      "id": 179,
+      "texto": "Hoy es el día para paciencia mejor que ayer."
+    },
+    {
+      "id": 180,
+      "texto": "Hoy es el día para paciencia en serio."
+    },
+    {
+      "id": 181,
+      "texto": "Hoy es el día para intención hoy."
+    },
+    {
+      "id": 182,
+      "texto": "Hoy es el día para intención ahora."
+    },
+    {
+      "id": 183,
+      "texto": "Hoy es el día para intención sin miedo."
+    },
+    {
+      "id": 184,
+      "texto": "Hoy es el día para intención con humor."
+    },
+    {
+      "id": 185,
+      "texto": "Hoy es el día para intención con ganas."
+    },
+    {
+      "id": 186,
+      "texto": "Hoy es el día para intención a tu ritmo."
+    },
+    {
+      "id": 187,
+      "texto": "Hoy es el día para intención con intención."
+    },
+    {
+      "id": 188,
+      "texto": "Hoy es el día para intención sin excusas."
+    },
+    {
+      "id": 189,
+      "texto": "Hoy es el día para intención mejor que ayer."
+    },
+    {
+      "id": 190,
+      "texto": "Hoy es el día para intención en serio."
+    },
+    {
+      "id": 191,
+      "texto": "Hoy es el día para determinación hoy."
+    },
+    {
+      "id": 192,
+      "texto": "Hoy es el día para determinación ahora."
+    },
+    {
+      "id": 193,
+      "texto": "Hoy es el día para determinación sin miedo."
+    },
+    {
+      "id": 194,
+      "texto": "Hoy es el día para determinación con humor."
+    },
+    {
+      "id": 195,
+      "texto": "Hoy es el día para determinación con ganas."
+    },
+    {
+      "id": 196,
+      "texto": "Hoy es el día para determinación a tu ritmo."
+    },
+    {
+      "id": 197,
+      "texto": "Hoy es el día para determinación con intención."
+    },
+    {
+      "id": 198,
+      "texto": "Hoy es el día para determinación sin excusas."
+    },
+    {
+      "id": 199,
+      "texto": "Hoy es el día para determinación mejor que ayer."
+    },
+    {
+      "id": 200,
+      "texto": "Hoy es el día para determinación en serio."
+    },
+    {
+      "id": 201,
+      "texto": "Avanza incluso con empezar hoy."
+    },
+    {
+      "id": 202,
+      "texto": "Avanza incluso con empezar ahora."
+    },
+    {
+      "id": 203,
+      "texto": "Avanza incluso con empezar sin miedo."
+    },
+    {
+      "id": 204,
+      "texto": "Avanza incluso con empezar con humor."
+    },
+    {
+      "id": 205,
+      "texto": "Avanza incluso con empezar con ganas."
+    },
+    {
+      "id": 206,
+      "texto": "Avanza incluso con empezar a tu ritmo."
+    },
+    {
+      "id": 207,
+      "texto": "Avanza incluso con empezar con intención."
+    },
+    {
+      "id": 208,
+      "texto": "Avanza incluso con empezar sin excusas."
+    },
+    {
+      "id": 209,
+      "texto": "Avanza incluso con empezar mejor que ayer."
+    },
+    {
+      "id": 210,
+      "texto": "Avanza incluso con empezar en serio."
+    },
+    {
+      "id": 211,
+      "texto": "Avanza incluso con crecer hoy."
+    },
+    {
+      "id": 212,
+      "texto": "Avanza incluso con crecer ahora."
+    },
+    {
+      "id": 213,
+      "texto": "Avanza incluso con crecer sin miedo."
+    },
+    {
+      "id": 214,
+      "texto": "Avanza incluso con crecer con humor."
+    },
+    {
+      "id": 215,
+      "texto": "Avanza incluso con crecer con ganas."
+    },
+    {
+      "id": 216,
+      "texto": "Avanza incluso con crecer a tu ritmo."
+    },
+    {
+      "id": 217,
+      "texto": "Avanza incluso con crecer con intención."
+    },
+    {
+      "id": 218,
+      "texto": "Avanza incluso con crecer sin excusas."
+    },
+    {
+      "id": 219,
+      "texto": "Avanza incluso con crecer mejor que ayer."
+    },
+    {
+      "id": 220,
+      "texto": "Avanza incluso con crecer en serio."
+    },
+    {
+      "id": 221,
+      "texto": "Avanza incluso con intentar hoy."
+    },
+    {
+      "id": 222,
+      "texto": "Avanza incluso con intentar ahora."
+    },
+    {
+      "id": 223,
+      "texto": "Avanza incluso con intentar sin miedo."
+    },
+    {
+      "id": 224,
+      "texto": "Avanza incluso con intentar con humor."
+    },
+    {
+      "id": 225,
+      "texto": "Avanza incluso con intentar con ganas."
+    },
+    {
+      "id": 226,
+      "texto": "Avanza incluso con intentar a tu ritmo."
+    },
+    {
+      "id": 227,
+      "texto": "Avanza incluso con intentar con intención."
+    },
+    {
+      "id": 228,
+      "texto": "Avanza incluso con intentar sin excusas."
+    },
+    {
+      "id": 229,
+      "texto": "Avanza incluso con intentar mejor que ayer."
+    },
+    {
+      "id": 230,
+      "texto": "Avanza incluso con intentar en serio."
+    },
+    {
+      "id": 231,
+      "texto": "Avanza incluso con mejorar hoy."
+    },
+    {
+      "id": 232,
+      "texto": "Avanza incluso con mejorar ahora."
+    },
+    {
+      "id": 233,
+      "texto": "Avanza incluso con mejorar sin miedo."
+    },
+    {
+      "id": 234,
+      "texto": "Avanza incluso con mejorar con humor."
+    },
+    {
+      "id": 235,
+      "texto": "Avanza incluso con mejorar con ganas."
+    },
+    {
+      "id": 236,
+      "texto": "Avanza incluso con mejorar a tu ritmo."
+    },
+    {
+      "id": 237,
+      "texto": "Avanza incluso con mejorar con intención."
+    },
+    {
+      "id": 238,
+      "texto": "Avanza incluso con mejorar sin excusas."
+    },
+    {
+      "id": 239,
+      "texto": "Avanza incluso con mejorar mejor que ayer."
+    },
+    {
+      "id": 240,
+      "texto": "Avanza incluso con mejorar en serio."
+    },
+    {
+      "id": 241,
+      "texto": "Avanza incluso con aprender hoy."
+    },
+    {
+      "id": 242,
+      "texto": "Avanza incluso con aprender ahora."
+    },
+    {
+      "id": 243,
+      "texto": "Avanza incluso con aprender sin miedo."
+    },
+    {
+      "id": 244,
+      "texto": "Avanza incluso con aprender con humor."
+    },
+    {
+      "id": 245,
+      "texto": "Avanza incluso con aprender con ganas."
+    },
+    {
+      "id": 246,
+      "texto": "Avanza incluso con aprender a tu ritmo."
+    },
+    {
+      "id": 247,
+      "texto": "Avanza incluso con aprender con intención."
+    },
+    {
+      "id": 248,
+      "texto": "Avanza incluso con aprender sin excusas."
+    },
+    {
+      "id": 249,
+      "texto": "Avanza incluso con aprender mejor que ayer."
+    },
+    {
+      "id": 250,
+      "texto": "Avanza incluso con aprender en serio."
+    },
+    {
+      "id": 251,
+      "texto": "Avanza incluso con actuar hoy."
+    },
+    {
+      "id": 252,
+      "texto": "Avanza incluso con actuar ahora."
+    },
+    {
+      "id": 253,
+      "texto": "Avanza incluso con actuar sin miedo."
+    },
+    {
+      "id": 254,
+      "texto": "Avanza incluso con actuar con humor."
+    },
+    {
+      "id": 255,
+      "texto": "Avanza incluso con actuar con ganas."
+    },
+    {
+      "id": 256,
+      "texto": "Avanza incluso con actuar a tu ritmo."
+    },
+    {
+      "id": 257,
+      "texto": "Avanza incluso con actuar con intención."
+    },
+    {
+      "id": 258,
+      "texto": "Avanza incluso con actuar sin excusas."
+    },
+    {
+      "id": 259,
+      "texto": "Avanza incluso con actuar mejor que ayer."
+    },
+    {
+      "id": 260,
+      "texto": "Avanza incluso con actuar en serio."
+    },
+    {
+      "id": 261,
+      "texto": "Avanza incluso con disciplina hoy."
+    },
+    {
+      "id": 262,
+      "texto": "Avanza incluso con disciplina ahora."
+    },
+    {
+      "id": 263,
+      "texto": "Avanza incluso con disciplina sin miedo."
+    },
+    {
+      "id": 264,
+      "texto": "Avanza incluso con disciplina con humor."
+    },
+    {
+      "id": 265,
+      "texto": "Avanza incluso con disciplina con ganas."
+    },
+    {
+      "id": 266,
+      "texto": "Avanza incluso con disciplina a tu ritmo."
+    },
+    {
+      "id": 267,
+      "texto": "Avanza incluso con disciplina con intención."
+    },
+    {
+      "id": 268,
+      "texto": "Avanza incluso con disciplina sin excusas."
+    },
+    {
+      "id": 269,
+      "texto": "Avanza incluso con disciplina mejor que ayer."
+    },
+    {
+      "id": 270,
+      "texto": "Avanza incluso con disciplina en serio."
+    },
+    {
+      "id": 271,
+      "texto": "Avanza incluso con enfoque hoy."
+    },
+    {
+      "id": 272,
+      "texto": "Avanza incluso con enfoque ahora."
+    },
+    {
+      "id": 273,
+      "texto": "Avanza incluso con enfoque sin miedo."
+    },
+    {
+      "id": 274,
+      "texto": "Avanza incluso con enfoque con humor."
+    },
+    {
+      "id": 275,
+      "texto": "Avanza incluso con enfoque con ganas."
+    },
+    {
+      "id": 276,
+      "texto": "Avanza incluso con enfoque a tu ritmo."
+    },
+    {
+      "id": 277,
+      "texto": "Avanza incluso con enfoque con intención."
+    },
+    {
+      "id": 278,
+      "texto": "Avanza incluso con enfoque sin excusas."
+    },
+    {
+      "id": 279,
+      "texto": "Avanza incluso con enfoque mejor que ayer."
+    },
+    {
+      "id": 280,
+      "texto": "Avanza incluso con enfoque en serio."
+    },
+    {
+      "id": 281,
+      "texto": "Avanza incluso con valentía hoy."
+    },
+    {
+      "id": 282,
+      "texto": "Avanza incluso con valentía ahora."
+    },
+    {
+      "id": 283,
+      "texto": "Avanza incluso con valentía sin miedo."
+    },
+    {
+      "id": 284,
+      "texto": "Avanza incluso con valentía con humor."
+    },
+    {
+      "id": 285,
+      "texto": "Avanza incluso con valentía con ganas."
+    },
+    {
+      "id": 286,
+      "texto": "Avanza incluso con valentía a tu ritmo."
+    },
+    {
+      "id": 287,
+      "texto": "Avanza incluso con valentía con intención."
+    },
+    {
+      "id": 288,
+      "texto": "Avanza incluso con valentía sin excusas."
+    },
+    {
+      "id": 289,
+      "texto": "Avanza incluso con valentía mejor que ayer."
+    },
+    {
+      "id": 290,
+      "texto": "Avanza incluso con valentía en serio."
+    },
+    {
+      "id": 291,
+      "texto": "Avanza incluso con constancia hoy."
+    },
+    {
+      "id": 292,
+      "texto": "Avanza incluso con constancia ahora."
+    },
+    {
+      "id": 293,
+      "texto": "Avanza incluso con constancia sin miedo."
+    },
+    {
+      "id": 294,
+      "texto": "Avanza incluso con constancia con humor."
+    },
+    {
+      "id": 295,
+      "texto": "Avanza incluso con constancia con ganas."
+    },
+    {
+      "id": 296,
+      "texto": "Avanza incluso con constancia a tu ritmo."
+    },
+    {
+      "id": 297,
+      "texto": "Avanza incluso con constancia con intención."
+    },
+    {
+      "id": 298,
+      "texto": "Avanza incluso con constancia sin excusas."
+    },
+    {
+      "id": 299,
+      "texto": "Avanza incluso con constancia mejor que ayer."
+    },
+    {
+      "id": 300,
+      "texto": "Avanza incluso con constancia en serio."
+    },
+    {
+      "id": 301,
+      "texto": "Avanza incluso con acción hoy."
+    },
+    {
+      "id": 302,
+      "texto": "Avanza incluso con acción ahora."
+    },
+    {
+      "id": 303,
+      "texto": "Avanza incluso con acción sin miedo."
+    },
+    {
+      "id": 304,
+      "texto": "Avanza incluso con acción con humor."
+    },
+    {
+      "id": 305,
+      "texto": "Avanza incluso con acción con ganas."
+    },
+    {
+      "id": 306,
+      "texto": "Avanza incluso con acción a tu ritmo."
+    },
+    {
+      "id": 307,
+      "texto": "Avanza incluso con acción con intención."
+    },
+    {
+      "id": 308,
+      "texto": "Avanza incluso con acción sin excusas."
+    },
+    {
+      "id": 309,
+      "texto": "Avanza incluso con acción mejor que ayer."
+    },
+    {
+      "id": 310,
+      "texto": "Avanza incluso con acción en serio."
+    },
+    {
+      "id": 311,
+      "texto": "Avanza incluso con errores hoy."
+    },
+    {
+      "id": 312,
+      "texto": "Avanza incluso con errores ahora."
+    },
+    {
+      "id": 313,
+      "texto": "Avanza incluso con errores sin miedo."
+    },
+    {
+      "id": 314,
+      "texto": "Avanza incluso con errores con humor."
+    },
+    {
+      "id": 315,
+      "texto": "Avanza incluso con errores con ganas."
+    },
+    {
+      "id": 316,
+      "texto": "Avanza incluso con errores a tu ritmo."
+    },
+    {
+      "id": 317,
+      "texto": "Avanza incluso con errores con intención."
+    },
+    {
+      "id": 318,
+      "texto": "Avanza incluso con errores sin excusas."
+    },
+    {
+      "id": 319,
+      "texto": "Avanza incluso con errores mejor que ayer."
+    },
+    {
+      "id": 320,
+      "texto": "Avanza incluso con errores en serio."
+    },
+    {
+      "id": 321,
+      "texto": "Avanza incluso con excusa hoy."
+    },
+    {
+      "id": 322,
+      "texto": "Avanza incluso con excusa ahora."
+    },
+    {
+      "id": 323,
+      "texto": "Avanza incluso con excusa sin miedo."
+    },
+    {
+      "id": 324,
+      "texto": "Avanza incluso con excusa con humor."
+    },
+    {
+      "id": 325,
+      "texto": "Avanza incluso con excusa con ganas."
+    },
+    {
+      "id": 326,
+      "texto": "Avanza incluso con excusa a tu ritmo."
+    },
+    {
+      "id": 327,
+      "texto": "Avanza incluso con excusa con intención."
+    },
+    {
+      "id": 328,
+      "texto": "Avanza incluso con excusa sin excusas."
+    },
+    {
+      "id": 329,
+      "texto": "Avanza incluso con excusa mejor que ayer."
+    },
+    {
+      "id": 330,
+      "texto": "Avanza incluso con excusa en serio."
+    },
+    {
+      "id": 331,
+      "texto": "Avanza incluso con comodidad hoy."
+    },
+    {
+      "id": 332,
+      "texto": "Avanza incluso con comodidad ahora."
+    },
+    {
+      "id": 333,
+      "texto": "Avanza incluso con comodidad sin miedo."
+    },
+    {
+      "id": 334,
+      "texto": "Avanza incluso con comodidad con humor."
+    },
+    {
+      "id": 335,
+      "texto": "Avanza incluso con comodidad con ganas."
+    },
+    {
+      "id": 336,
+      "texto": "Avanza incluso con comodidad a tu ritmo."
+    },
+    {
+      "id": 337,
+      "texto": "Avanza incluso con comodidad con intención."
+    },
+    {
+      "id": 338,
+      "texto": "Avanza incluso con comodidad sin excusas."
+    },
+    {
+      "id": 339,
+      "texto": "Avanza incluso con comodidad mejor que ayer."
+    },
+    {
+      "id": 340,
+      "texto": "Avanza incluso con comodidad en serio."
+    },
+    {
+      "id": 341,
+      "texto": "Avanza incluso con progreso hoy."
+    },
+    {
+      "id": 342,
+      "texto": "Avanza incluso con progreso ahora."
+    },
+    {
+      "id": 343,
+      "texto": "Avanza incluso con progreso sin miedo."
+    },
+    {
+      "id": 344,
+      "texto": "Avanza incluso con progreso con humor."
+    },
+    {
+      "id": 345,
+      "texto": "Avanza incluso con progreso con ganas."
+    },
+    {
+      "id": 346,
+      "texto": "Avanza incluso con progreso a tu ritmo."
+    },
+    {
+      "id": 347,
+      "texto": "Avanza incluso con progreso con intención."
+    },
+    {
+      "id": 348,
+      "texto": "Avanza incluso con progreso sin excusas."
+    },
+    {
+      "id": 349,
+      "texto": "Avanza incluso con progreso mejor que ayer."
+    },
+    {
+      "id": 350,
+      "texto": "Avanza incluso con progreso en serio."
+    },
+    {
+      "id": 351,
+      "texto": "Avanza incluso con energía hoy."
+    },
+    {
+      "id": 352,
+      "texto": "Avanza incluso con energía ahora."
+    },
+    {
+      "id": 353,
+      "texto": "Avanza incluso con energía sin miedo."
+    },
+    {
+      "id": 354,
+      "texto": "Avanza incluso con energía con humor."
+    },
+    {
+      "id": 355,
+      "texto": "Avanza incluso con energía con ganas."
+    },
+    {
+      "id": 356,
+      "texto": "Avanza incluso con energía a tu ritmo."
+    },
+    {
+      "id": 357,
+      "texto": "Avanza incluso con energía con intención."
+    },
+    {
+      "id": 358,
+      "texto": "Avanza incluso con energía sin excusas."
+    },
+    {
+      "id": 359,
+      "texto": "Avanza incluso con energía mejor que ayer."
+    },
+    {
+      "id": 360,
+      "texto": "Avanza incluso con energía en serio."
+    },
+    {
+      "id": 361,
+      "texto": "Avanza incluso con humor hoy."
+    },
+    {
+      "id": 362,
+      "texto": "Avanza incluso con humor ahora."
+    },
+    {
+      "id": 363,
+      "texto": "Avanza incluso con humor sin miedo."
+    },
+    {
+      "id": 364,
+      "texto": "Avanza incluso con humor con humor."
+    },
+    {
+      "id": 365,
+      "texto": "Avanza incluso con humor con ganas."
+    },
+    {
+      "id": 366,
+      "texto": "Avanza incluso con humor a tu ritmo."
+    },
+    {
+      "id": 367,
+      "texto": "Avanza incluso con humor con intención."
+    },
+    {
+      "id": 368,
+      "texto": "Avanza incluso con humor sin excusas."
+    },
+    {
+      "id": 369,
+      "texto": "Avanza incluso con humor mejor que ayer."
+    },
+    {
+      "id": 370,
+      "texto": "Avanza incluso con humor en serio."
+    },
+    {
+      "id": 371,
+      "texto": "Avanza incluso con paciencia hoy."
+    },
+    {
+      "id": 372,
+      "texto": "Avanza incluso con paciencia ahora."
+    },
+    {
+      "id": 373,
+      "texto": "Avanza incluso con paciencia sin miedo."
+    },
+    {
+      "id": 374,
+      "texto": "Avanza incluso con paciencia con humor."
+    },
+    {
+      "id": 375,
+      "texto": "Avanza incluso con paciencia con ganas."
+    },
+    {
+      "id": 376,
+      "texto": "Avanza incluso con paciencia a tu ritmo."
+    },
+    {
+      "id": 377,
+      "texto": "Avanza incluso con paciencia con intención."
+    },
+    {
+      "id": 378,
+      "texto": "Avanza incluso con paciencia sin excusas."
+    },
+    {
+      "id": 379,
+      "texto": "Avanza incluso con paciencia mejor que ayer."
+    },
+    {
+      "id": 380,
+      "texto": "Avanza incluso con paciencia en serio."
+    },
+    {
+      "id": 381,
+      "texto": "Avanza incluso con intención hoy."
+    },
+    {
+      "id": 382,
+      "texto": "Avanza incluso con intención ahora."
+    },
+    {
+      "id": 383,
+      "texto": "Avanza incluso con intención sin miedo."
+    },
+    {
+      "id": 384,
+      "texto": "Avanza incluso con intención con humor."
+    },
+    {
+      "id": 385,
+      "texto": "Avanza incluso con intención con ganas."
+    },
+    {
+      "id": 386,
+      "texto": "Avanza incluso con intención a tu ritmo."
+    },
+    {
+      "id": 387,
+      "texto": "Avanza incluso con intención con intención."
+    },
+    {
+      "id": 388,
+      "texto": "Avanza incluso con intención sin excusas."
+    },
+    {
+      "id": 389,
+      "texto": "Avanza incluso con intención mejor que ayer."
+    },
+    {
+      "id": 390,
+      "texto": "Avanza incluso con intención en serio."
+    },
+    {
+      "id": 391,
+      "texto": "Avanza incluso con determinación hoy."
+    },
+    {
+      "id": 392,
+      "texto": "Avanza incluso con determinación ahora."
+    },
+    {
+      "id": 393,
+      "texto": "Avanza incluso con determinación sin miedo."
+    },
+    {
+      "id": 394,
+      "texto": "Avanza incluso con determinación con humor."
+    },
+    {
+      "id": 395,
+      "texto": "Avanza incluso con determinación con ganas."
+    },
+    {
+      "id": 396,
+      "texto": "Avanza incluso con determinación a tu ritmo."
+    },
+    {
+      "id": 397,
+      "texto": "Avanza incluso con determinación con intención."
+    },
+    {
+      "id": 398,
+      "texto": "Avanza incluso con determinación sin excusas."
+    },
+    {
+      "id": 399,
+      "texto": "Avanza incluso con determinación mejor que ayer."
+    },
+    {
+      "id": 400,
+      "texto": "Avanza incluso con determinación en serio."
+    },
+    {
+      "id": 401,
+      "texto": "Tu futuro empieza con empezar hoy."
+    },
+    {
+      "id": 402,
+      "texto": "Tu futuro empieza con empezar ahora."
+    },
+    {
+      "id": 403,
+      "texto": "Tu futuro empieza con empezar sin miedo."
+    },
+    {
+      "id": 404,
+      "texto": "Tu futuro empieza con empezar con humor."
+    },
+    {
+      "id": 405,
+      "texto": "Tu futuro empieza con empezar con ganas."
+    },
+    {
+      "id": 406,
+      "texto": "Tu futuro empieza con empezar a tu ritmo."
+    },
+    {
+      "id": 407,
+      "texto": "Tu futuro empieza con empezar con intención."
+    },
+    {
+      "id": 408,
+      "texto": "Tu futuro empieza con empezar sin excusas."
+    },
+    {
+      "id": 409,
+      "texto": "Tu futuro empieza con empezar mejor que ayer."
+    },
+    {
+      "id": 410,
+      "texto": "Tu futuro empieza con empezar en serio."
+    },
+    {
+      "id": 411,
+      "texto": "Tu futuro empieza con crecer hoy."
+    },
+    {
+      "id": 412,
+      "texto": "Tu futuro empieza con crecer ahora."
+    },
+    {
+      "id": 413,
+      "texto": "Tu futuro empieza con crecer sin miedo."
+    },
+    {
+      "id": 414,
+      "texto": "Tu futuro empieza con crecer con humor."
+    },
+    {
+      "id": 415,
+      "texto": "Tu futuro empieza con crecer con ganas."
+    },
+    {
+      "id": 416,
+      "texto": "Tu futuro empieza con crecer a tu ritmo."
+    },
+    {
+      "id": 417,
+      "texto": "Tu futuro empieza con crecer con intención."
+    },
+    {
+      "id": 418,
+      "texto": "Tu futuro empieza con crecer sin excusas."
+    },
+    {
+      "id": 419,
+      "texto": "Tu futuro empieza con crecer mejor que ayer."
+    },
+    {
+      "id": 420,
+      "texto": "Tu futuro empieza con crecer en serio."
+    },
+    {
+      "id": 421,
+      "texto": "Tu futuro empieza con intentar hoy."
+    },
+    {
+      "id": 422,
+      "texto": "Tu futuro empieza con intentar ahora."
+    },
+    {
+      "id": 423,
+      "texto": "Tu futuro empieza con intentar sin miedo."
+    },
+    {
+      "id": 424,
+      "texto": "Tu futuro empieza con intentar con humor."
+    },
+    {
+      "id": 425,
+      "texto": "Tu futuro empieza con intentar con ganas."
+    },
+    {
+      "id": 426,
+      "texto": "Tu futuro empieza con intentar a tu ritmo."
+    },
+    {
+      "id": 427,
+      "texto": "Tu futuro empieza con intentar con intención."
+    },
+    {
+      "id": 428,
+      "texto": "Tu futuro empieza con intentar sin excusas."
+    },
+    {
+      "id": 429,
+      "texto": "Tu futuro empieza con intentar mejor que ayer."
+    },
+    {
+      "id": 430,
+      "texto": "Tu futuro empieza con intentar en serio."
+    },
+    {
+      "id": 431,
+      "texto": "Tu futuro empieza con mejorar hoy."
+    },
+    {
+      "id": 432,
+      "texto": "Tu futuro empieza con mejorar ahora."
+    },
+    {
+      "id": 433,
+      "texto": "Tu futuro empieza con mejorar sin miedo."
+    },
+    {
+      "id": 434,
+      "texto": "Tu futuro empieza con mejorar con humor."
+    },
+    {
+      "id": 435,
+      "texto": "Tu futuro empieza con mejorar con ganas."
+    },
+    {
+      "id": 436,
+      "texto": "Tu futuro empieza con mejorar a tu ritmo."
+    },
+    {
+      "id": 437,
+      "texto": "Tu futuro empieza con mejorar con intención."
+    },
+    {
+      "id": 438,
+      "texto": "Tu futuro empieza con mejorar sin excusas."
+    },
+    {
+      "id": 439,
+      "texto": "Tu futuro empieza con mejorar mejor que ayer."
+    },
+    {
+      "id": 440,
+      "texto": "Tu futuro empieza con mejorar en serio."
+    },
+    {
+      "id": 441,
+      "texto": "Tu futuro empieza con aprender hoy."
+    },
+    {
+      "id": 442,
+      "texto": "Tu futuro empieza con aprender ahora."
+    },
+    {
+      "id": 443,
+      "texto": "Tu futuro empieza con aprender sin miedo."
+    },
+    {
+      "id": 444,
+      "texto": "Tu futuro empieza con aprender con humor."
+    },
+    {
+      "id": 445,
+      "texto": "Tu futuro empieza con aprender con ganas."
+    },
+    {
+      "id": 446,
+      "texto": "Tu futuro empieza con aprender a tu ritmo."
+    },
+    {
+      "id": 447,
+      "texto": "Tu futuro empieza con aprender con intención."
+    },
+    {
+      "id": 448,
+      "texto": "Tu futuro empieza con aprender sin excusas."
+    },
+    {
+      "id": 449,
+      "texto": "Tu futuro empieza con aprender mejor que ayer."
+    },
+    {
+      "id": 450,
+      "texto": "Tu futuro empieza con aprender en serio."
+    },
+    {
+      "id": 451,
+      "texto": "Tu futuro empieza con actuar hoy."
+    },
+    {
+      "id": 452,
+      "texto": "Tu futuro empieza con actuar ahora."
+    },
+    {
+      "id": 453,
+      "texto": "Tu futuro empieza con actuar sin miedo."
+    },
+    {
+      "id": 454,
+      "texto": "Tu futuro empieza con actuar con humor."
+    },
+    {
+      "id": 455,
+      "texto": "Tu futuro empieza con actuar con ganas."
+    },
+    {
+      "id": 456,
+      "texto": "Tu futuro empieza con actuar a tu ritmo."
+    },
+    {
+      "id": 457,
+      "texto": "Tu futuro empieza con actuar con intención."
+    },
+    {
+      "id": 458,
+      "texto": "Tu futuro empieza con actuar sin excusas."
+    },
+    {
+      "id": 459,
+      "texto": "Tu futuro empieza con actuar mejor que ayer."
+    },
+    {
+      "id": 460,
+      "texto": "Tu futuro empieza con actuar en serio."
+    },
+    {
+      "id": 461,
+      "texto": "Tu futuro empieza con disciplina hoy."
+    },
+    {
+      "id": 462,
+      "texto": "Tu futuro empieza con disciplina ahora."
+    },
+    {
+      "id": 463,
+      "texto": "Tu futuro empieza con disciplina sin miedo."
+    },
+    {
+      "id": 464,
+      "texto": "Tu futuro empieza con disciplina con humor."
+    },
+    {
+      "id": 465,
+      "texto": "Tu futuro empieza con disciplina con ganas."
+    },
+    {
+      "id": 466,
+      "texto": "Tu futuro empieza con disciplina a tu ritmo."
+    },
+    {
+      "id": 467,
+      "texto": "Tu futuro empieza con disciplina con intención."
+    },
+    {
+      "id": 468,
+      "texto": "Tu futuro empieza con disciplina sin excusas."
+    },
+    {
+      "id": 469,
+      "texto": "Tu futuro empieza con disciplina mejor que ayer."
+    },
+    {
+      "id": 470,
+      "texto": "Tu futuro empieza con disciplina en serio."
+    },
+    {
+      "id": 471,
+      "texto": "Tu futuro empieza con enfoque hoy."
+    },
+    {
+      "id": 472,
+      "texto": "Tu futuro empieza con enfoque ahora."
+    },
+    {
+      "id": 473,
+      "texto": "Tu futuro empieza con enfoque sin miedo."
+    },
+    {
+      "id": 474,
+      "texto": "Tu futuro empieza con enfoque con humor."
+    },
+    {
+      "id": 475,
+      "texto": "Tu futuro empieza con enfoque con ganas."
+    },
+    {
+      "id": 476,
+      "texto": "Tu futuro empieza con enfoque a tu ritmo."
+    },
+    {
+      "id": 477,
+      "texto": "Tu futuro empieza con enfoque con intención."
+    },
+    {
+      "id": 478,
+      "texto": "Tu futuro empieza con enfoque sin excusas."
+    },
+    {
+      "id": 479,
+      "texto": "Tu futuro empieza con enfoque mejor que ayer."
+    },
+    {
+      "id": 480,
+      "texto": "Tu futuro empieza con enfoque en serio."
+    },
+    {
+      "id": 481,
+      "texto": "Tu futuro empieza con valentía hoy."
+    },
+    {
+      "id": 482,
+      "texto": "Tu futuro empieza con valentía ahora."
+    },
+    {
+      "id": 483,
+      "texto": "Tu futuro empieza con valentía sin miedo."
+    },
+    {
+      "id": 484,
+      "texto": "Tu futuro empieza con valentía con humor."
+    },
+    {
+      "id": 485,
+      "texto": "Tu futuro empieza con valentía con ganas."
+    },
+    {
+      "id": 486,
+      "texto": "Tu futuro empieza con valentía a tu ritmo."
+    },
+    {
+      "id": 487,
+      "texto": "Tu futuro empieza con valentía con intención."
+    },
+    {
+      "id": 488,
+      "texto": "Tu futuro empieza con valentía sin excusas."
+    },
+    {
+      "id": 489,
+      "texto": "Tu futuro empieza con valentía mejor que ayer."
+    },
+    {
+      "id": 490,
+      "texto": "Tu futuro empieza con valentía en serio."
+    },
+    {
+      "id": 491,
+      "texto": "Tu futuro empieza con constancia hoy."
+    },
+    {
+      "id": 492,
+      "texto": "Tu futuro empieza con constancia ahora."
+    },
+    {
+      "id": 493,
+      "texto": "Tu futuro empieza con constancia sin miedo."
+    },
+    {
+      "id": 494,
+      "texto": "Tu futuro empieza con constancia con humor."
+    },
+    {
+      "id": 495,
+      "texto": "Tu futuro empieza con constancia con ganas."
+    },
+    {
+      "id": 496,
+      "texto": "Tu futuro empieza con constancia a tu ritmo."
+    },
+    {
+      "id": 497,
+      "texto": "Tu futuro empieza con constancia con intención."
+    },
+    {
+      "id": 498,
+      "texto": "Tu futuro empieza con constancia sin excusas."
+    },
+    {
+      "id": 499,
+      "texto": "Tu futuro empieza con constancia mejor que ayer."
+    },
+    {
+      "id": 500,
+      "texto": "Tu futuro empieza con constancia en serio."
+    },
+    {
+      "id": 501,
+      "texto": "Tu futuro empieza con acción hoy."
+    },
+    {
+      "id": 502,
+      "texto": "Tu futuro empieza con acción ahora."
+    },
+    {
+      "id": 503,
+      "texto": "Tu futuro empieza con acción sin miedo."
+    },
+    {
+      "id": 504,
+      "texto": "Tu futuro empieza con acción con humor."
+    },
+    {
+      "id": 505,
+      "texto": "Tu futuro empieza con acción con ganas."
+    },
+    {
+      "id": 506,
+      "texto": "Tu futuro empieza con acción a tu ritmo."
+    },
+    {
+      "id": 507,
+      "texto": "Tu futuro empieza con acción con intención."
+    },
+    {
+      "id": 508,
+      "texto": "Tu futuro empieza con acción sin excusas."
+    },
+    {
+      "id": 509,
+      "texto": "Tu futuro empieza con acción mejor que ayer."
+    },
+    {
+      "id": 510,
+      "texto": "Tu futuro empieza con acción en serio."
+    },
+    {
+      "id": 511,
+      "texto": "Tu futuro empieza con errores hoy."
+    },
+    {
+      "id": 512,
+      "texto": "Tu futuro empieza con errores ahora."
+    },
+    {
+      "id": 513,
+      "texto": "Tu futuro empieza con errores sin miedo."
+    },
+    {
+      "id": 514,
+      "texto": "Tu futuro empieza con errores con humor."
+    },
+    {
+      "id": 515,
+      "texto": "Tu futuro empieza con errores con ganas."
+    },
+    {
+      "id": 516,
+      "texto": "Tu futuro empieza con errores a tu ritmo."
+    },
+    {
+      "id": 517,
+      "texto": "Tu futuro empieza con errores con intención."
+    },
+    {
+      "id": 518,
+      "texto": "Tu futuro empieza con errores sin excusas."
+    },
+    {
+      "id": 519,
+      "texto": "Tu futuro empieza con errores mejor que ayer."
+    },
+    {
+      "id": 520,
+      "texto": "Tu futuro empieza con errores en serio."
+    },
+    {
+      "id": 521,
+      "texto": "Tu futuro empieza con excusa hoy."
+    },
+    {
+      "id": 522,
+      "texto": "Tu futuro empieza con excusa ahora."
+    },
+    {
+      "id": 523,
+      "texto": "Tu futuro empieza con excusa sin miedo."
+    },
+    {
+      "id": 524,
+      "texto": "Tu futuro empieza con excusa con humor."
+    },
+    {
+      "id": 525,
+      "texto": "Tu futuro empieza con excusa con ganas."
+    },
+    {
+      "id": 526,
+      "texto": "Tu futuro empieza con excusa a tu ritmo."
+    },
+    {
+      "id": 527,
+      "texto": "Tu futuro empieza con excusa con intención."
+    },
+    {
+      "id": 528,
+      "texto": "Tu futuro empieza con excusa sin excusas."
+    },
+    {
+      "id": 529,
+      "texto": "Tu futuro empieza con excusa mejor que ayer."
+    },
+    {
+      "id": 530,
+      "texto": "Tu futuro empieza con excusa en serio."
+    },
+    {
+      "id": 531,
+      "texto": "Tu futuro empieza con comodidad hoy."
+    },
+    {
+      "id": 532,
+      "texto": "Tu futuro empieza con comodidad ahora."
+    },
+    {
+      "id": 533,
+      "texto": "Tu futuro empieza con comodidad sin miedo."
+    },
+    {
+      "id": 534,
+      "texto": "Tu futuro empieza con comodidad con humor."
+    },
+    {
+      "id": 535,
+      "texto": "Tu futuro empieza con comodidad con ganas."
+    },
+    {
+      "id": 536,
+      "texto": "Tu futuro empieza con comodidad a tu ritmo."
+    },
+    {
+      "id": 537,
+      "texto": "Tu futuro empieza con comodidad con intención."
+    },
+    {
+      "id": 538,
+      "texto": "Tu futuro empieza con comodidad sin excusas."
+    },
+    {
+      "id": 539,
+      "texto": "Tu futuro empieza con comodidad mejor que ayer."
+    },
+    {
+      "id": 540,
+      "texto": "Tu futuro empieza con comodidad en serio."
+    },
+    {
+      "id": 541,
+      "texto": "Tu futuro empieza con progreso hoy."
+    },
+    {
+      "id": 542,
+      "texto": "Tu futuro empieza con progreso ahora."
+    },
+    {
+      "id": 543,
+      "texto": "Tu futuro empieza con progreso sin miedo."
+    },
+    {
+      "id": 544,
+      "texto": "Tu futuro empieza con progreso con humor."
+    },
+    {
+      "id": 545,
+      "texto": "Tu futuro empieza con progreso con ganas."
+    },
+    {
+      "id": 546,
+      "texto": "Tu futuro empieza con progreso a tu ritmo."
+    },
+    {
+      "id": 547,
+      "texto": "Tu futuro empieza con progreso con intención."
+    },
+    {
+      "id": 548,
+      "texto": "Tu futuro empieza con progreso sin excusas."
+    },
+    {
+      "id": 549,
+      "texto": "Tu futuro empieza con progreso mejor que ayer."
+    },
+    {
+      "id": 550,
+      "texto": "Tu futuro empieza con progreso en serio."
+    },
+    {
+      "id": 551,
+      "texto": "Tu futuro empieza con energía hoy."
+    },
+    {
+      "id": 552,
+      "texto": "Tu futuro empieza con energía ahora."
+    },
+    {
+      "id": 553,
+      "texto": "Tu futuro empieza con energía sin miedo."
+    },
+    {
+      "id": 554,
+      "texto": "Tu futuro empieza con energía con humor."
+    },
+    {
+      "id": 555,
+      "texto": "Tu futuro empieza con energía con ganas."
+    },
+    {
+      "id": 556,
+      "texto": "Tu futuro empieza con energía a tu ritmo."
+    },
+    {
+      "id": 557,
+      "texto": "Tu futuro empieza con energía con intención."
+    },
+    {
+      "id": 558,
+      "texto": "Tu futuro empieza con energía sin excusas."
+    },
+    {
+      "id": 559,
+      "texto": "Tu futuro empieza con energía mejor que ayer."
+    },
+    {
+      "id": 560,
+      "texto": "Tu futuro empieza con energía en serio."
+    },
+    {
+      "id": 561,
+      "texto": "Tu futuro empieza con humor hoy."
+    },
+    {
+      "id": 562,
+      "texto": "Tu futuro empieza con humor ahora."
+    },
+    {
+      "id": 563,
+      "texto": "Tu futuro empieza con humor sin miedo."
+    },
+    {
+      "id": 564,
+      "texto": "Tu futuro empieza con humor con humor."
+    },
+    {
+      "id": 565,
+      "texto": "Tu futuro empieza con humor con ganas."
+    },
+    {
+      "id": 566,
+      "texto": "Tu futuro empieza con humor a tu ritmo."
+    },
+    {
+      "id": 567,
+      "texto": "Tu futuro empieza con humor con intención."
+    },
+    {
+      "id": 568,
+      "texto": "Tu futuro empieza con humor sin excusas."
+    },
+    {
+      "id": 569,
+      "texto": "Tu futuro empieza con humor mejor que ayer."
+    },
+    {
+      "id": 570,
+      "texto": "Tu futuro empieza con humor en serio."
+    },
+    {
+      "id": 571,
+      "texto": "Tu futuro empieza con paciencia hoy."
+    },
+    {
+      "id": 572,
+      "texto": "Tu futuro empieza con paciencia ahora."
+    },
+    {
+      "id": 573,
+      "texto": "Tu futuro empieza con paciencia sin miedo."
+    },
+    {
+      "id": 574,
+      "texto": "Tu futuro empieza con paciencia con humor."
+    },
+    {
+      "id": 575,
+      "texto": "Tu futuro empieza con paciencia con ganas."
+    },
+    {
+      "id": 576,
+      "texto": "Tu futuro empieza con paciencia a tu ritmo."
+    },
+    {
+      "id": 577,
+      "texto": "Tu futuro empieza con paciencia con intención."
+    },
+    {
+      "id": 578,
+      "texto": "Tu futuro empieza con paciencia sin excusas."
+    },
+    {
+      "id": 579,
+      "texto": "Tu futuro empieza con paciencia mejor que ayer."
+    },
+    {
+      "id": 580,
+      "texto": "Tu futuro empieza con paciencia en serio."
+    },
+    {
+      "id": 581,
+      "texto": "Tu futuro empieza con intención hoy."
+    },
+    {
+      "id": 582,
+      "texto": "Tu futuro empieza con intención ahora."
+    },
+    {
+      "id": 583,
+      "texto": "Tu futuro empieza con intención sin miedo."
+    },
+    {
+      "id": 584,
+      "texto": "Tu futuro empieza con intención con humor."
+    },
+    {
+      "id": 585,
+      "texto": "Tu futuro empieza con intención con ganas."
+    },
+    {
+      "id": 586,
+      "texto": "Tu futuro empieza con intención a tu ritmo."
+    },
+    {
+      "id": 587,
+      "texto": "Tu futuro empieza con intención con intención."
+    },
+    {
+      "id": 588,
+      "texto": "Tu futuro empieza con intención sin excusas."
+    },
+    {
+      "id": 589,
+      "texto": "Tu futuro empieza con intención mejor que ayer."
+    },
+    {
+      "id": 590,
+      "texto": "Tu futuro empieza con intención en serio."
+    },
+    {
+      "id": 591,
+      "texto": "Tu futuro empieza con determinación hoy."
+    },
+    {
+      "id": 592,
+      "texto": "Tu futuro empieza con determinación ahora."
+    },
+    {
+      "id": 593,
+      "texto": "Tu futuro empieza con determinación sin miedo."
+    },
+    {
+      "id": 594,
+      "texto": "Tu futuro empieza con determinación con humor."
+    },
+    {
+      "id": 595,
+      "texto": "Tu futuro empieza con determinación con ganas."
+    },
+    {
+      "id": 596,
+      "texto": "Tu futuro empieza con determinación a tu ritmo."
+    },
+    {
+      "id": 597,
+      "texto": "Tu futuro empieza con determinación con intención."
+    },
+    {
+      "id": 598,
+      "texto": "Tu futuro empieza con determinación sin excusas."
+    },
+    {
+      "id": 599,
+      "texto": "Tu futuro empieza con determinación mejor que ayer."
+    },
+    {
+      "id": 600,
+      "texto": "Tu futuro empieza con determinación en serio."
+    },
+    {
+      "id": 601,
+      "texto": "Hazlo aunque exista empezar hoy."
+    },
+    {
+      "id": 602,
+      "texto": "Hazlo aunque exista empezar ahora."
+    },
+    {
+      "id": 603,
+      "texto": "Hazlo aunque exista empezar sin miedo."
+    },
+    {
+      "id": 604,
+      "texto": "Hazlo aunque exista empezar con humor."
+    },
+    {
+      "id": 605,
+      "texto": "Hazlo aunque exista empezar con ganas."
+    },
+    {
+      "id": 606,
+      "texto": "Hazlo aunque exista empezar a tu ritmo."
+    },
+    {
+      "id": 607,
+      "texto": "Hazlo aunque exista empezar con intención."
+    },
+    {
+      "id": 608,
+      "texto": "Hazlo aunque exista empezar sin excusas."
+    },
+    {
+      "id": 609,
+      "texto": "Hazlo aunque exista empezar mejor que ayer."
+    },
+    {
+      "id": 610,
+      "texto": "Hazlo aunque exista empezar en serio."
+    },
+    {
+      "id": 611,
+      "texto": "Hazlo aunque exista crecer hoy."
+    },
+    {
+      "id": 612,
+      "texto": "Hazlo aunque exista crecer ahora."
+    },
+    {
+      "id": 613,
+      "texto": "Hazlo aunque exista crecer sin miedo."
+    },
+    {
+      "id": 614,
+      "texto": "Hazlo aunque exista crecer con humor."
+    },
+    {
+      "id": 615,
+      "texto": "Hazlo aunque exista crecer con ganas."
+    },
+    {
+      "id": 616,
+      "texto": "Hazlo aunque exista crecer a tu ritmo."
+    },
+    {
+      "id": 617,
+      "texto": "Hazlo aunque exista crecer con intención."
+    },
+    {
+      "id": 618,
+      "texto": "Hazlo aunque exista crecer sin excusas."
+    },
+    {
+      "id": 619,
+      "texto": "Hazlo aunque exista crecer mejor que ayer."
+    },
+    {
+      "id": 620,
+      "texto": "Hazlo aunque exista crecer en serio."
+    },
+    {
+      "id": 621,
+      "texto": "Hazlo aunque exista intentar hoy."
+    },
+    {
+      "id": 622,
+      "texto": "Hazlo aunque exista intentar ahora."
+    },
+    {
+      "id": 623,
+      "texto": "Hazlo aunque exista intentar sin miedo."
+    },
+    {
+      "id": 624,
+      "texto": "Hazlo aunque exista intentar con humor."
+    },
+    {
+      "id": 625,
+      "texto": "Hazlo aunque exista intentar con ganas."
+    },
+    {
+      "id": 626,
+      "texto": "Hazlo aunque exista intentar a tu ritmo."
+    },
+    {
+      "id": 627,
+      "texto": "Hazlo aunque exista intentar con intención."
+    },
+    {
+      "id": 628,
+      "texto": "Hazlo aunque exista intentar sin excusas."
+    },
+    {
+      "id": 629,
+      "texto": "Hazlo aunque exista intentar mejor que ayer."
+    },
+    {
+      "id": 630,
+      "texto": "Hazlo aunque exista intentar en serio."
+    },
+    {
+      "id": 631,
+      "texto": "Hazlo aunque exista mejorar hoy."
+    },
+    {
+      "id": 632,
+      "texto": "Hazlo aunque exista mejorar ahora."
+    },
+    {
+      "id": 633,
+      "texto": "Hazlo aunque exista mejorar sin miedo."
+    },
+    {
+      "id": 634,
+      "texto": "Hazlo aunque exista mejorar con humor."
+    },
+    {
+      "id": 635,
+      "texto": "Hazlo aunque exista mejorar con ganas."
+    },
+    {
+      "id": 636,
+      "texto": "Hazlo aunque exista mejorar a tu ritmo."
+    },
+    {
+      "id": 637,
+      "texto": "Hazlo aunque exista mejorar con intención."
+    },
+    {
+      "id": 638,
+      "texto": "Hazlo aunque exista mejorar sin excusas."
+    },
+    {
+      "id": 639,
+      "texto": "Hazlo aunque exista mejorar mejor que ayer."
+    },
+    {
+      "id": 640,
+      "texto": "Hazlo aunque exista mejorar en serio."
+    },
+    {
+      "id": 641,
+      "texto": "Hazlo aunque exista aprender hoy."
+    },
+    {
+      "id": 642,
+      "texto": "Hazlo aunque exista aprender ahora."
+    },
+    {
+      "id": 643,
+      "texto": "Hazlo aunque exista aprender sin miedo."
+    },
+    {
+      "id": 644,
+      "texto": "Hazlo aunque exista aprender con humor."
+    },
+    {
+      "id": 645,
+      "texto": "Hazlo aunque exista aprender con ganas."
+    },
+    {
+      "id": 646,
+      "texto": "Hazlo aunque exista aprender a tu ritmo."
+    },
+    {
+      "id": 647,
+      "texto": "Hazlo aunque exista aprender con intención."
+    },
+    {
+      "id": 648,
+      "texto": "Hazlo aunque exista aprender sin excusas."
+    },
+    {
+      "id": 649,
+      "texto": "Hazlo aunque exista aprender mejor que ayer."
+    },
+    {
+      "id": 650,
+      "texto": "Hazlo aunque exista aprender en serio."
+    },
+    {
+      "id": 651,
+      "texto": "Hazlo aunque exista actuar hoy."
+    },
+    {
+      "id": 652,
+      "texto": "Hazlo aunque exista actuar ahora."
+    },
+    {
+      "id": 653,
+      "texto": "Hazlo aunque exista actuar sin miedo."
+    },
+    {
+      "id": 654,
+      "texto": "Hazlo aunque exista actuar con humor."
+    },
+    {
+      "id": 655,
+      "texto": "Hazlo aunque exista actuar con ganas."
+    },
+    {
+      "id": 656,
+      "texto": "Hazlo aunque exista actuar a tu ritmo."
+    },
+    {
+      "id": 657,
+      "texto": "Hazlo aunque exista actuar con intención."
+    },
+    {
+      "id": 658,
+      "texto": "Hazlo aunque exista actuar sin excusas."
+    },
+    {
+      "id": 659,
+      "texto": "Hazlo aunque exista actuar mejor que ayer."
+    },
+    {
+      "id": 660,
+      "texto": "Hazlo aunque exista actuar en serio."
+    },
+    {
+      "id": 661,
+      "texto": "Hazlo aunque exista disciplina hoy."
+    },
+    {
+      "id": 662,
+      "texto": "Hazlo aunque exista disciplina ahora."
+    },
+    {
+      "id": 663,
+      "texto": "Hazlo aunque exista disciplina sin miedo."
+    },
+    {
+      "id": 664,
+      "texto": "Hazlo aunque exista disciplina con humor."
+    },
+    {
+      "id": 665,
+      "texto": "Hazlo aunque exista disciplina con ganas."
+    },
+    {
+      "id": 666,
+      "texto": "Hazlo aunque exista disciplina a tu ritmo."
+    },
+    {
+      "id": 667,
+      "texto": "Hazlo aunque exista disciplina con intención."
+    },
+    {
+      "id": 668,
+      "texto": "Hazlo aunque exista disciplina sin excusas."
+    },
+    {
+      "id": 669,
+      "texto": "Hazlo aunque exista disciplina mejor que ayer."
+    },
+    {
+      "id": 670,
+      "texto": "Hazlo aunque exista disciplina en serio."
+    },
+    {
+      "id": 671,
+      "texto": "Hazlo aunque exista enfoque hoy."
+    },
+    {
+      "id": 672,
+      "texto": "Hazlo aunque exista enfoque ahora."
+    },
+    {
+      "id": 673,
+      "texto": "Hazlo aunque exista enfoque sin miedo."
+    },
+    {
+      "id": 674,
+      "texto": "Hazlo aunque exista enfoque con humor."
+    },
+    {
+      "id": 675,
+      "texto": "Hazlo aunque exista enfoque con ganas."
+    },
+    {
+      "id": 676,
+      "texto": "Hazlo aunque exista enfoque a tu ritmo."
+    },
+    {
+      "id": 677,
+      "texto": "Hazlo aunque exista enfoque con intención."
+    },
+    {
+      "id": 678,
+      "texto": "Hazlo aunque exista enfoque sin excusas."
+    },
+    {
+      "id": 679,
+      "texto": "Hazlo aunque exista enfoque mejor que ayer."
+    },
+    {
+      "id": 680,
+      "texto": "Hazlo aunque exista enfoque en serio."
+    },
+    {
+      "id": 681,
+      "texto": "Hazlo aunque exista valentía hoy."
+    },
+    {
+      "id": 682,
+      "texto": "Hazlo aunque exista valentía ahora."
+    },
+    {
+      "id": 683,
+      "texto": "Hazlo aunque exista valentía sin miedo."
+    },
+    {
+      "id": 684,
+      "texto": "Hazlo aunque exista valentía con humor."
+    },
+    {
+      "id": 685,
+      "texto": "Hazlo aunque exista valentía con ganas."
+    },
+    {
+      "id": 686,
+      "texto": "Hazlo aunque exista valentía a tu ritmo."
+    },
+    {
+      "id": 687,
+      "texto": "Hazlo aunque exista valentía con intención."
+    },
+    {
+      "id": 688,
+      "texto": "Hazlo aunque exista valentía sin excusas."
+    },
+    {
+      "id": 689,
+      "texto": "Hazlo aunque exista valentía mejor que ayer."
+    },
+    {
+      "id": 690,
+      "texto": "Hazlo aunque exista valentía en serio."
+    },
+    {
+      "id": 691,
+      "texto": "Hazlo aunque exista constancia hoy."
+    },
+    {
+      "id": 692,
+      "texto": "Hazlo aunque exista constancia ahora."
+    },
+    {
+      "id": 693,
+      "texto": "Hazlo aunque exista constancia sin miedo."
+    },
+    {
+      "id": 694,
+      "texto": "Hazlo aunque exista constancia con humor."
+    },
+    {
+      "id": 695,
+      "texto": "Hazlo aunque exista constancia con ganas."
+    },
+    {
+      "id": 696,
+      "texto": "Hazlo aunque exista constancia a tu ritmo."
+    },
+    {
+      "id": 697,
+      "texto": "Hazlo aunque exista constancia con intención."
+    },
+    {
+      "id": 698,
+      "texto": "Hazlo aunque exista constancia sin excusas."
+    },
+    {
+      "id": 699,
+      "texto": "Hazlo aunque exista constancia mejor que ayer."
+    },
+    {
+      "id": 700,
+      "texto": "Hazlo aunque exista constancia en serio."
+    },
+    {
+      "id": 701,
+      "texto": "Hazlo aunque exista acción hoy."
+    },
+    {
+      "id": 702,
+      "texto": "Hazlo aunque exista acción ahora."
+    },
+    {
+      "id": 703,
+      "texto": "Hazlo aunque exista acción sin miedo."
+    },
+    {
+      "id": 704,
+      "texto": "Hazlo aunque exista acción con humor."
+    },
+    {
+      "id": 705,
+      "texto": "Hazlo aunque exista acción con ganas."
+    },
+    {
+      "id": 706,
+      "texto": "Hazlo aunque exista acción a tu ritmo."
+    },
+    {
+      "id": 707,
+      "texto": "Hazlo aunque exista acción con intención."
+    },
+    {
+      "id": 708,
+      "texto": "Hazlo aunque exista acción sin excusas."
+    },
+    {
+      "id": 709,
+      "texto": "Hazlo aunque exista acción mejor que ayer."
+    },
+    {
+      "id": 710,
+      "texto": "Hazlo aunque exista acción en serio."
+    },
+    {
+      "id": 711,
+      "texto": "Hazlo aunque exista errores hoy."
+    },
+    {
+      "id": 712,
+      "texto": "Hazlo aunque exista errores ahora."
+    },
+    {
+      "id": 713,
+      "texto": "Hazlo aunque exista errores sin miedo."
+    },
+    {
+      "id": 714,
+      "texto": "Hazlo aunque exista errores con humor."
+    },
+    {
+      "id": 715,
+      "texto": "Hazlo aunque exista errores con ganas."
+    },
+    {
+      "id": 716,
+      "texto": "Hazlo aunque exista errores a tu ritmo."
+    },
+    {
+      "id": 717,
+      "texto": "Hazlo aunque exista errores con intención."
+    },
+    {
+      "id": 718,
+      "texto": "Hazlo aunque exista errores sin excusas."
+    },
+    {
+      "id": 719,
+      "texto": "Hazlo aunque exista errores mejor que ayer."
+    },
+    {
+      "id": 720,
+      "texto": "Hazlo aunque exista errores en serio."
+    },
+    {
+      "id": 721,
+      "texto": "Hazlo aunque exista excusa hoy."
+    },
+    {
+      "id": 722,
+      "texto": "Hazlo aunque exista excusa ahora."
+    },
+    {
+      "id": 723,
+      "texto": "Hazlo aunque exista excusa sin miedo."
+    },
+    {
+      "id": 724,
+      "texto": "Hazlo aunque exista excusa con humor."
+    },
+    {
+      "id": 725,
+      "texto": "Hazlo aunque exista excusa con ganas."
+    },
+    {
+      "id": 726,
+      "texto": "Hazlo aunque exista excusa a tu ritmo."
+    },
+    {
+      "id": 727,
+      "texto": "Hazlo aunque exista excusa con intención."
+    },
+    {
+      "id": 728,
+      "texto": "Hazlo aunque exista excusa sin excusas."
+    },
+    {
+      "id": 729,
+      "texto": "Hazlo aunque exista excusa mejor que ayer."
+    },
+    {
+      "id": 730,
+      "texto": "Hazlo aunque exista excusa en serio."
+    },
+    {
+      "id": 731,
+      "texto": "Hazlo aunque exista comodidad hoy."
+    },
+    {
+      "id": 732,
+      "texto": "Hazlo aunque exista comodidad ahora."
+    },
+    {
+      "id": 733,
+      "texto": "Hazlo aunque exista comodidad sin miedo."
+    },
+    {
+      "id": 734,
+      "texto": "Hazlo aunque exista comodidad con humor."
+    },
+    {
+      "id": 735,
+      "texto": "Hazlo aunque exista comodidad con ganas."
+    },
+    {
+      "id": 736,
+      "texto": "Hazlo aunque exista comodidad a tu ritmo."
+    },
+    {
+      "id": 737,
+      "texto": "Hazlo aunque exista comodidad con intención."
+    },
+    {
+      "id": 738,
+      "texto": "Hazlo aunque exista comodidad sin excusas."
+    },
+    {
+      "id": 739,
+      "texto": "Hazlo aunque exista comodidad mejor que ayer."
+    },
+    {
+      "id": 740,
+      "texto": "Hazlo aunque exista comodidad en serio."
+    },
+    {
+      "id": 741,
+      "texto": "Hazlo aunque exista progreso hoy."
+    },
+    {
+      "id": 742,
+      "texto": "Hazlo aunque exista progreso ahora."
+    },
+    {
+      "id": 743,
+      "texto": "Hazlo aunque exista progreso sin miedo."
+    },
+    {
+      "id": 744,
+      "texto": "Hazlo aunque exista progreso con humor."
+    },
+    {
+      "id": 745,
+      "texto": "Hazlo aunque exista progreso con ganas."
+    },
+    {
+      "id": 746,
+      "texto": "Hazlo aunque exista progreso a tu ritmo."
+    },
+    {
+      "id": 747,
+      "texto": "Hazlo aunque exista progreso con intención."
+    },
+    {
+      "id": 748,
+      "texto": "Hazlo aunque exista progreso sin excusas."
+    },
+    {
+      "id": 749,
+      "texto": "Hazlo aunque exista progreso mejor que ayer."
+    },
+    {
+      "id": 750,
+      "texto": "Hazlo aunque exista progreso en serio."
+    },
+    {
+      "id": 751,
+      "texto": "Hazlo aunque exista energía hoy."
+    },
+    {
+      "id": 752,
+      "texto": "Hazlo aunque exista energía ahora."
+    },
+    {
+      "id": 753,
+      "texto": "Hazlo aunque exista energía sin miedo."
+    },
+    {
+      "id": 754,
+      "texto": "Hazlo aunque exista energía con humor."
+    },
+    {
+      "id": 755,
+      "texto": "Hazlo aunque exista energía con ganas."
+    },
+    {
+      "id": 756,
+      "texto": "Hazlo aunque exista energía a tu ritmo."
+    },
+    {
+      "id": 757,
+      "texto": "Hazlo aunque exista energía con intención."
+    },
+    {
+      "id": 758,
+      "texto": "Hazlo aunque exista energía sin excusas."
+    },
+    {
+      "id": 759,
+      "texto": "Hazlo aunque exista energía mejor que ayer."
+    },
+    {
+      "id": 760,
+      "texto": "Hazlo aunque exista energía en serio."
+    },
+    {
+      "id": 761,
+      "texto": "Hazlo aunque exista humor hoy."
+    },
+    {
+      "id": 762,
+      "texto": "Hazlo aunque exista humor ahora."
+    },
+    {
+      "id": 763,
+      "texto": "Hazlo aunque exista humor sin miedo."
+    },
+    {
+      "id": 764,
+      "texto": "Hazlo aunque exista humor con humor."
+    },
+    {
+      "id": 765,
+      "texto": "Hazlo aunque exista humor con ganas."
+    },
+    {
+      "id": 766,
+      "texto": "Hazlo aunque exista humor a tu ritmo."
+    },
+    {
+      "id": 767,
+      "texto": "Hazlo aunque exista humor con intención."
+    },
+    {
+      "id": 768,
+      "texto": "Hazlo aunque exista humor sin excusas."
+    },
+    {
+      "id": 769,
+      "texto": "Hazlo aunque exista humor mejor que ayer."
+    },
+    {
+      "id": 770,
+      "texto": "Hazlo aunque exista humor en serio."
+    },
+    {
+      "id": 771,
+      "texto": "Hazlo aunque exista paciencia hoy."
+    },
+    {
+      "id": 772,
+      "texto": "Hazlo aunque exista paciencia ahora."
+    },
+    {
+      "id": 773,
+      "texto": "Hazlo aunque exista paciencia sin miedo."
+    },
+    {
+      "id": 774,
+      "texto": "Hazlo aunque exista paciencia con humor."
+    },
+    {
+      "id": 775,
+      "texto": "Hazlo aunque exista paciencia con ganas."
+    },
+    {
+      "id": 776,
+      "texto": "Hazlo aunque exista paciencia a tu ritmo."
+    },
+    {
+      "id": 777,
+      "texto": "Hazlo aunque exista paciencia con intención."
+    },
+    {
+      "id": 778,
+      "texto": "Hazlo aunque exista paciencia sin excusas."
+    },
+    {
+      "id": 779,
+      "texto": "Hazlo aunque exista paciencia mejor que ayer."
+    },
+    {
+      "id": 780,
+      "texto": "Hazlo aunque exista paciencia en serio."
+    },
+    {
+      "id": 781,
+      "texto": "Hazlo aunque exista intención hoy."
+    },
+    {
+      "id": 782,
+      "texto": "Hazlo aunque exista intención ahora."
+    },
+    {
+      "id": 783,
+      "texto": "Hazlo aunque exista intención sin miedo."
+    },
+    {
+      "id": 784,
+      "texto": "Hazlo aunque exista intención con humor."
+    },
+    {
+      "id": 785,
+      "texto": "Hazlo aunque exista intención con ganas."
+    },
+    {
+      "id": 786,
+      "texto": "Hazlo aunque exista intención a tu ritmo."
+    },
+    {
+      "id": 787,
+      "texto": "Hazlo aunque exista intención con intención."
+    },
+    {
+      "id": 788,
+      "texto": "Hazlo aunque exista intención sin excusas."
+    },
+    {
+      "id": 789,
+      "texto": "Hazlo aunque exista intención mejor que ayer."
+    },
+    {
+      "id": 790,
+      "texto": "Hazlo aunque exista intención en serio."
+    },
+    {
+      "id": 791,
+      "texto": "Hazlo aunque exista determinación hoy."
+    },
+    {
+      "id": 792,
+      "texto": "Hazlo aunque exista determinación ahora."
+    },
+    {
+      "id": 793,
+      "texto": "Hazlo aunque exista determinación sin miedo."
+    },
+    {
+      "id": 794,
+      "texto": "Hazlo aunque exista determinación con humor."
+    },
+    {
+      "id": 795,
+      "texto": "Hazlo aunque exista determinación con ganas."
+    },
+    {
+      "id": 796,
+      "texto": "Hazlo aunque exista determinación a tu ritmo."
+    },
+    {
+      "id": 797,
+      "texto": "Hazlo aunque exista determinación con intención."
+    },
+    {
+      "id": 798,
+      "texto": "Hazlo aunque exista determinación sin excusas."
+    },
+    {
+      "id": 799,
+      "texto": "Hazlo aunque exista determinación mejor que ayer."
+    },
+    {
+      "id": 800,
+      "texto": "Hazlo aunque exista determinación en serio."
+    },
+    {
+      "id": 801,
+      "texto": "La constancia vence a empezar hoy."
+    },
+    {
+      "id": 802,
+      "texto": "La constancia vence a empezar ahora."
+    },
+    {
+      "id": 803,
+      "texto": "La constancia vence a empezar sin miedo."
+    },
+    {
+      "id": 804,
+      "texto": "La constancia vence a empezar con humor."
+    },
+    {
+      "id": 805,
+      "texto": "La constancia vence a empezar con ganas."
+    },
+    {
+      "id": 806,
+      "texto": "La constancia vence a empezar a tu ritmo."
+    },
+    {
+      "id": 807,
+      "texto": "La constancia vence a empezar con intención."
+    },
+    {
+      "id": 808,
+      "texto": "La constancia vence a empezar sin excusas."
+    },
+    {
+      "id": 809,
+      "texto": "La constancia vence a empezar mejor que ayer."
+    },
+    {
+      "id": 810,
+      "texto": "La constancia vence a empezar en serio."
+    },
+    {
+      "id": 811,
+      "texto": "La constancia vence a crecer hoy."
+    },
+    {
+      "id": 812,
+      "texto": "La constancia vence a crecer ahora."
+    },
+    {
+      "id": 813,
+      "texto": "La constancia vence a crecer sin miedo."
+    },
+    {
+      "id": 814,
+      "texto": "La constancia vence a crecer con humor."
+    },
+    {
+      "id": 815,
+      "texto": "La constancia vence a crecer con ganas."
+    },
+    {
+      "id": 816,
+      "texto": "La constancia vence a crecer a tu ritmo."
+    },
+    {
+      "id": 817,
+      "texto": "La constancia vence a crecer con intención."
+    },
+    {
+      "id": 818,
+      "texto": "La constancia vence a crecer sin excusas."
+    },
+    {
+      "id": 819,
+      "texto": "La constancia vence a crecer mejor que ayer."
+    },
+    {
+      "id": 820,
+      "texto": "La constancia vence a crecer en serio."
+    },
+    {
+      "id": 821,
+      "texto": "La constancia vence a intentar hoy."
+    },
+    {
+      "id": 822,
+      "texto": "La constancia vence a intentar ahora."
+    },
+    {
+      "id": 823,
+      "texto": "La constancia vence a intentar sin miedo."
+    },
+    {
+      "id": 824,
+      "texto": "La constancia vence a intentar con humor."
+    },
+    {
+      "id": 825,
+      "texto": "La constancia vence a intentar con ganas."
+    },
+    {
+      "id": 826,
+      "texto": "La constancia vence a intentar a tu ritmo."
+    },
+    {
+      "id": 827,
+      "texto": "La constancia vence a intentar con intención."
+    },
+    {
+      "id": 828,
+      "texto": "La constancia vence a intentar sin excusas."
+    },
+    {
+      "id": 829,
+      "texto": "La constancia vence a intentar mejor que ayer."
+    },
+    {
+      "id": 830,
+      "texto": "La constancia vence a intentar en serio."
+    },
+    {
+      "id": 831,
+      "texto": "La constancia vence a mejorar hoy."
+    },
+    {
+      "id": 832,
+      "texto": "La constancia vence a mejorar ahora."
+    },
+    {
+      "id": 833,
+      "texto": "La constancia vence a mejorar sin miedo."
+    },
+    {
+      "id": 834,
+      "texto": "La constancia vence a mejorar con humor."
+    },
+    {
+      "id": 835,
+      "texto": "La constancia vence a mejorar con ganas."
+    },
+    {
+      "id": 836,
+      "texto": "La constancia vence a mejorar a tu ritmo."
+    },
+    {
+      "id": 837,
+      "texto": "La constancia vence a mejorar con intención."
+    },
+    {
+      "id": 838,
+      "texto": "La constancia vence a mejorar sin excusas."
+    },
+    {
+      "id": 839,
+      "texto": "La constancia vence a mejorar mejor que ayer."
+    },
+    {
+      "id": 840,
+      "texto": "La constancia vence a mejorar en serio."
+    },
+    {
+      "id": 841,
+      "texto": "La constancia vence a aprender hoy."
+    },
+    {
+      "id": 842,
+      "texto": "La constancia vence a aprender ahora."
+    },
+    {
+      "id": 843,
+      "texto": "La constancia vence a aprender sin miedo."
+    },
+    {
+      "id": 844,
+      "texto": "La constancia vence a aprender con humor."
+    },
+    {
+      "id": 845,
+      "texto": "La constancia vence a aprender con ganas."
+    },
+    {
+      "id": 846,
+      "texto": "La constancia vence a aprender a tu ritmo."
+    },
+    {
+      "id": 847,
+      "texto": "La constancia vence a aprender con intención."
+    },
+    {
+      "id": 848,
+      "texto": "La constancia vence a aprender sin excusas."
+    },
+    {
+      "id": 849,
+      "texto": "La constancia vence a aprender mejor que ayer."
+    },
+    {
+      "id": 850,
+      "texto": "La constancia vence a aprender en serio."
+    },
+    {
+      "id": 851,
+      "texto": "La constancia vence a actuar hoy."
+    },
+    {
+      "id": 852,
+      "texto": "La constancia vence a actuar ahora."
+    },
+    {
+      "id": 853,
+      "texto": "La constancia vence a actuar sin miedo."
+    },
+    {
+      "id": 854,
+      "texto": "La constancia vence a actuar con humor."
+    },
+    {
+      "id": 855,
+      "texto": "La constancia vence a actuar con ganas."
+    },
+    {
+      "id": 856,
+      "texto": "La constancia vence a actuar a tu ritmo."
+    },
+    {
+      "id": 857,
+      "texto": "La constancia vence a actuar con intención."
+    },
+    {
+      "id": 858,
+      "texto": "La constancia vence a actuar sin excusas."
+    },
+    {
+      "id": 859,
+      "texto": "La constancia vence a actuar mejor que ayer."
+    },
+    {
+      "id": 860,
+      "texto": "La constancia vence a actuar en serio."
+    },
+    {
+      "id": 861,
+      "texto": "La constancia vence a disciplina hoy."
+    },
+    {
+      "id": 862,
+      "texto": "La constancia vence a disciplina ahora."
+    },
+    {
+      "id": 863,
+      "texto": "La constancia vence a disciplina sin miedo."
+    },
+    {
+      "id": 864,
+      "texto": "La constancia vence a disciplina con humor."
+    },
+    {
+      "id": 865,
+      "texto": "La constancia vence a disciplina con ganas."
+    },
+    {
+      "id": 866,
+      "texto": "La constancia vence a disciplina a tu ritmo."
+    },
+    {
+      "id": 867,
+      "texto": "La constancia vence a disciplina con intención."
+    },
+    {
+      "id": 868,
+      "texto": "La constancia vence a disciplina sin excusas."
+    },
+    {
+      "id": 869,
+      "texto": "La constancia vence a disciplina mejor que ayer."
+    },
+    {
+      "id": 870,
+      "texto": "La constancia vence a disciplina en serio."
+    },
+    {
+      "id": 871,
+      "texto": "La constancia vence a enfoque hoy."
+    },
+    {
+      "id": 872,
+      "texto": "La constancia vence a enfoque ahora."
+    },
+    {
+      "id": 873,
+      "texto": "La constancia vence a enfoque sin miedo."
+    },
+    {
+      "id": 874,
+      "texto": "La constancia vence a enfoque con humor."
+    },
+    {
+      "id": 875,
+      "texto": "La constancia vence a enfoque con ganas."
+    },
+    {
+      "id": 876,
+      "texto": "La constancia vence a enfoque a tu ritmo."
+    },
+    {
+      "id": 877,
+      "texto": "La constancia vence a enfoque con intención."
+    },
+    {
+      "id": 878,
+      "texto": "La constancia vence a enfoque sin excusas."
+    },
+    {
+      "id": 879,
+      "texto": "La constancia vence a enfoque mejor que ayer."
+    },
+    {
+      "id": 880,
+      "texto": "La constancia vence a enfoque en serio."
+    },
+    {
+      "id": 881,
+      "texto": "La constancia vence a valentía hoy."
+    },
+    {
+      "id": 882,
+      "texto": "La constancia vence a valentía ahora."
+    },
+    {
+      "id": 883,
+      "texto": "La constancia vence a valentía sin miedo."
+    },
+    {
+      "id": 884,
+      "texto": "La constancia vence a valentía con humor."
+    },
+    {
+      "id": 885,
+      "texto": "La constancia vence a valentía con ganas."
+    },
+    {
+      "id": 886,
+      "texto": "La constancia vence a valentía a tu ritmo."
+    },
+    {
+      "id": 887,
+      "texto": "La constancia vence a valentía con intención."
+    },
+    {
+      "id": 888,
+      "texto": "La constancia vence a valentía sin excusas."
+    },
+    {
+      "id": 889,
+      "texto": "La constancia vence a valentía mejor que ayer."
+    },
+    {
+      "id": 890,
+      "texto": "La constancia vence a valentía en serio."
+    },
+    {
+      "id": 891,
+      "texto": "La constancia vence a constancia hoy."
+    },
+    {
+      "id": 892,
+      "texto": "La constancia vence a constancia ahora."
+    },
+    {
+      "id": 893,
+      "texto": "La constancia vence a constancia sin miedo."
+    },
+    {
+      "id": 894,
+      "texto": "La constancia vence a constancia con humor."
+    },
+    {
+      "id": 895,
+      "texto": "La constancia vence a constancia con ganas."
+    },
+    {
+      "id": 896,
+      "texto": "La constancia vence a constancia a tu ritmo."
+    },
+    {
+      "id": 897,
+      "texto": "La constancia vence a constancia con intención."
+    },
+    {
+      "id": 898,
+      "texto": "La constancia vence a constancia sin excusas."
+    },
+    {
+      "id": 899,
+      "texto": "La constancia vence a constancia mejor que ayer."
+    },
+    {
+      "id": 900,
+      "texto": "La constancia vence a constancia en serio."
+    },
+    {
+      "id": 901,
+      "texto": "La constancia vence a acción hoy."
+    },
+    {
+      "id": 902,
+      "texto": "La constancia vence a acción ahora."
+    },
+    {
+      "id": 903,
+      "texto": "La constancia vence a acción sin miedo."
+    },
+    {
+      "id": 904,
+      "texto": "La constancia vence a acción con humor."
+    },
+    {
+      "id": 905,
+      "texto": "La constancia vence a acción con ganas."
+    },
+    {
+      "id": 906,
+      "texto": "La constancia vence a acción a tu ritmo."
+    },
+    {
+      "id": 907,
+      "texto": "La constancia vence a acción con intención."
+    },
+    {
+      "id": 908,
+      "texto": "La constancia vence a acción sin excusas."
+    },
+    {
+      "id": 909,
+      "texto": "La constancia vence a acción mejor que ayer."
+    },
+    {
+      "id": 910,
+      "texto": "La constancia vence a acción en serio."
+    },
+    {
+      "id": 911,
+      "texto": "La constancia vence a errores hoy."
+    },
+    {
+      "id": 912,
+      "texto": "La constancia vence a errores ahora."
+    },
+    {
+      "id": 913,
+      "texto": "La constancia vence a errores sin miedo."
+    },
+    {
+      "id": 914,
+      "texto": "La constancia vence a errores con humor."
+    },
+    {
+      "id": 915,
+      "texto": "La constancia vence a errores con ganas."
+    },
+    {
+      "id": 916,
+      "texto": "La constancia vence a errores a tu ritmo."
+    },
+    {
+      "id": 917,
+      "texto": "La constancia vence a errores con intención."
+    },
+    {
+      "id": 918,
+      "texto": "La constancia vence a errores sin excusas."
+    },
+    {
+      "id": 919,
+      "texto": "La constancia vence a errores mejor que ayer."
+    },
+    {
+      "id": 920,
+      "texto": "La constancia vence a errores en serio."
+    },
+    {
+      "id": 921,
+      "texto": "La constancia vence a excusa hoy."
+    },
+    {
+      "id": 922,
+      "texto": "La constancia vence a excusa ahora."
+    },
+    {
+      "id": 923,
+      "texto": "La constancia vence a excusa sin miedo."
+    },
+    {
+      "id": 924,
+      "texto": "La constancia vence a excusa con humor."
+    },
+    {
+      "id": 925,
+      "texto": "La constancia vence a excusa con ganas."
+    },
+    {
+      "id": 926,
+      "texto": "La constancia vence a excusa a tu ritmo."
+    },
+    {
+      "id": 927,
+      "texto": "La constancia vence a excusa con intención."
+    },
+    {
+      "id": 928,
+      "texto": "La constancia vence a excusa sin excusas."
+    },
+    {
+      "id": 929,
+      "texto": "La constancia vence a excusa mejor que ayer."
+    },
+    {
+      "id": 930,
+      "texto": "La constancia vence a excusa en serio."
+    },
+    {
+      "id": 931,
+      "texto": "La constancia vence a comodidad hoy."
+    },
+    {
+      "id": 932,
+      "texto": "La constancia vence a comodidad ahora."
+    },
+    {
+      "id": 933,
+      "texto": "La constancia vence a comodidad sin miedo."
+    },
+    {
+      "id": 934,
+      "texto": "La constancia vence a comodidad con humor."
+    },
+    {
+      "id": 935,
+      "texto": "La constancia vence a comodidad con ganas."
+    },
+    {
+      "id": 936,
+      "texto": "La constancia vence a comodidad a tu ritmo."
+    },
+    {
+      "id": 937,
+      "texto": "La constancia vence a comodidad con intención."
+    },
+    {
+      "id": 938,
+      "texto": "La constancia vence a comodidad sin excusas."
+    },
+    {
+      "id": 939,
+      "texto": "La constancia vence a comodidad mejor que ayer."
+    },
+    {
+      "id": 940,
+      "texto": "La constancia vence a comodidad en serio."
+    },
+    {
+      "id": 941,
+      "texto": "La constancia vence a progreso hoy."
+    },
+    {
+      "id": 942,
+      "texto": "La constancia vence a progreso ahora."
+    },
+    {
+      "id": 943,
+      "texto": "La constancia vence a progreso sin miedo."
+    },
+    {
+      "id": 944,
+      "texto": "La constancia vence a progreso con humor."
+    },
+    {
+      "id": 945,
+      "texto": "La constancia vence a progreso con ganas."
+    },
+    {
+      "id": 946,
+      "texto": "La constancia vence a progreso a tu ritmo."
+    },
+    {
+      "id": 947,
+      "texto": "La constancia vence a progreso con intención."
+    },
+    {
+      "id": 948,
+      "texto": "La constancia vence a progreso sin excusas."
+    },
+    {
+      "id": 949,
+      "texto": "La constancia vence a progreso mejor que ayer."
+    },
+    {
+      "id": 950,
+      "texto": "La constancia vence a progreso en serio."
+    },
+    {
+      "id": 951,
+      "texto": "La constancia vence a energía hoy."
+    },
+    {
+      "id": 952,
+      "texto": "La constancia vence a energía ahora."
+    },
+    {
+      "id": 953,
+      "texto": "La constancia vence a energía sin miedo."
+    },
+    {
+      "id": 954,
+      "texto": "La constancia vence a energía con humor."
+    },
+    {
+      "id": 955,
+      "texto": "La constancia vence a energía con ganas."
+    },
+    {
+      "id": 956,
+      "texto": "La constancia vence a energía a tu ritmo."
+    },
+    {
+      "id": 957,
+      "texto": "La constancia vence a energía con intención."
+    },
+    {
+      "id": 958,
+      "texto": "La constancia vence a energía sin excusas."
+    },
+    {
+      "id": 959,
+      "texto": "La constancia vence a energía mejor que ayer."
+    },
+    {
+      "id": 960,
+      "texto": "La constancia vence a energía en serio."
+    },
+    {
+      "id": 961,
+      "texto": "La constancia vence a humor hoy."
+    },
+    {
+      "id": 962,
+      "texto": "La constancia vence a humor ahora."
+    },
+    {
+      "id": 963,
+      "texto": "La constancia vence a humor sin miedo."
+    },
+    {
+      "id": 964,
+      "texto": "La constancia vence a humor con humor."
+    },
+    {
+      "id": 965,
+      "texto": "La constancia vence a humor con ganas."
+    },
+    {
+      "id": 966,
+      "texto": "La constancia vence a humor a tu ritmo."
+    },
+    {
+      "id": 967,
+      "texto": "La constancia vence a humor con intención."
+    },
+    {
+      "id": 968,
+      "texto": "La constancia vence a humor sin excusas."
+    },
+    {
+      "id": 969,
+      "texto": "La constancia vence a humor mejor que ayer."
+    },
+    {
+      "id": 970,
+      "texto": "La constancia vence a humor en serio."
+    },
+    {
+      "id": 971,
+      "texto": "La constancia vence a paciencia hoy."
+    },
+    {
+      "id": 972,
+      "texto": "La constancia vence a paciencia ahora."
+    },
+    {
+      "id": 973,
+      "texto": "La constancia vence a paciencia sin miedo."
+    },
+    {
+      "id": 974,
+      "texto": "La constancia vence a paciencia con humor."
+    },
+    {
+      "id": 975,
+      "texto": "La constancia vence a paciencia con ganas."
+    },
+    {
+      "id": 976,
+      "texto": "La constancia vence a paciencia a tu ritmo."
+    },
+    {
+      "id": 977,
+      "texto": "La constancia vence a paciencia con intención."
+    },
+    {
+      "id": 978,
+      "texto": "La constancia vence a paciencia sin excusas."
+    },
+    {
+      "id": 979,
+      "texto": "La constancia vence a paciencia mejor que ayer."
+    },
+    {
+      "id": 980,
+      "texto": "La constancia vence a paciencia en serio."
+    },
+    {
+      "id": 981,
+      "texto": "La constancia vence a intención hoy."
+    },
+    {
+      "id": 982,
+      "texto": "La constancia vence a intención ahora."
+    },
+    {
+      "id": 983,
+      "texto": "La constancia vence a intención sin miedo."
+    },
+    {
+      "id": 984,
+      "texto": "La constancia vence a intención con humor."
+    },
+    {
+      "id": 985,
+      "texto": "La constancia vence a intención con ganas."
+    },
+    {
+      "id": 986,
+      "texto": "La constancia vence a intención a tu ritmo."
+    },
+    {
+      "id": 987,
+      "texto": "La constancia vence a intención con intención."
+    },
+    {
+      "id": 988,
+      "texto": "La constancia vence a intención sin excusas."
+    },
+    {
+      "id": 989,
+      "texto": "La constancia vence a intención mejor que ayer."
+    },
+    {
+      "id": 990,
+      "texto": "La constancia vence a intención en serio."
+    },
+    {
+      "id": 991,
+      "texto": "La constancia vence a determinación hoy."
+    },
+    {
+      "id": 992,
+      "texto": "La constancia vence a determinación ahora."
+    },
+    {
+      "id": 993,
+      "texto": "La constancia vence a determinación sin miedo."
+    },
+    {
+      "id": 994,
+      "texto": "La constancia vence a determinación con humor."
+    },
+    {
+      "id": 995,
+      "texto": "La constancia vence a determinación con ganas."
+    },
+    {
+      "id": 996,
+      "texto": "La constancia vence a determinación a tu ritmo."
+    },
+    {
+      "id": 997,
+      "texto": "La constancia vence a determinación con intención."
+    },
+    {
+      "id": 998,
+      "texto": "La constancia vence a determinación sin excusas."
+    },
+    {
+      "id": 999,
+      "texto": "La constancia vence a determinación mejor que ayer."
+    },
+    {
+      "id": 1000,
+      "texto": "La constancia vence a determinación en serio."
+    },
+    {
+      "id": 1001,
+      "texto": "Confía en empezar hoy."
+    },
+    {
+      "id": 1002,
+      "texto": "Confía en empezar ahora."
+    },
+    {
+      "id": 1003,
+      "texto": "Confía en empezar sin miedo."
+    },
+    {
+      "id": 1004,
+      "texto": "Confía en empezar con humor."
+    },
+    {
+      "id": 1005,
+      "texto": "Confía en empezar con ganas."
+    },
+    {
+      "id": 1006,
+      "texto": "Confía en empezar a tu ritmo."
+    },
+    {
+      "id": 1007,
+      "texto": "Confía en empezar con intención."
+    },
+    {
+      "id": 1008,
+      "texto": "Confía en empezar sin excusas."
+    },
+    {
+      "id": 1009,
+      "texto": "Confía en empezar mejor que ayer."
+    },
+    {
+      "id": 1010,
+      "texto": "Confía en empezar en serio."
+    },
+    {
+      "id": 1011,
+      "texto": "Confía en crecer hoy."
+    },
+    {
+      "id": 1012,
+      "texto": "Confía en crecer ahora."
+    },
+    {
+      "id": 1013,
+      "texto": "Confía en crecer sin miedo."
+    },
+    {
+      "id": 1014,
+      "texto": "Confía en crecer con humor."
+    },
+    {
+      "id": 1015,
+      "texto": "Confía en crecer con ganas."
+    },
+    {
+      "id": 1016,
+      "texto": "Confía en crecer a tu ritmo."
+    },
+    {
+      "id": 1017,
+      "texto": "Confía en crecer con intención."
+    },
+    {
+      "id": 1018,
+      "texto": "Confía en crecer sin excusas."
+    },
+    {
+      "id": 1019,
+      "texto": "Confía en crecer mejor que ayer."
+    },
+    {
+      "id": 1020,
+      "texto": "Confía en crecer en serio."
+    },
+    {
+      "id": 1021,
+      "texto": "Confía en intentar hoy."
+    },
+    {
+      "id": 1022,
+      "texto": "Confía en intentar ahora."
+    },
+    {
+      "id": 1023,
+      "texto": "Confía en intentar sin miedo."
+    },
+    {
+      "id": 1024,
+      "texto": "Confía en intentar con humor."
+    },
+    {
+      "id": 1025,
+      "texto": "Confía en intentar con ganas."
+    },
+    {
+      "id": 1026,
+      "texto": "Confía en intentar a tu ritmo."
+    },
+    {
+      "id": 1027,
+      "texto": "Confía en intentar con intención."
+    },
+    {
+      "id": 1028,
+      "texto": "Confía en intentar sin excusas."
+    },
+    {
+      "id": 1029,
+      "texto": "Confía en intentar mejor que ayer."
+    },
+    {
+      "id": 1030,
+      "texto": "Confía en intentar en serio."
+    },
+    {
+      "id": 1031,
+      "texto": "Confía en mejorar hoy."
+    },
+    {
+      "id": 1032,
+      "texto": "Confía en mejorar ahora."
+    },
+    {
+      "id": 1033,
+      "texto": "Confía en mejorar sin miedo."
+    },
+    {
+      "id": 1034,
+      "texto": "Confía en mejorar con humor."
+    },
+    {
+      "id": 1035,
+      "texto": "Confía en mejorar con ganas."
+    },
+    {
+      "id": 1036,
+      "texto": "Confía en mejorar a tu ritmo."
+    },
+    {
+      "id": 1037,
+      "texto": "Confía en mejorar con intención."
+    },
+    {
+      "id": 1038,
+      "texto": "Confía en mejorar sin excusas."
+    },
+    {
+      "id": 1039,
+      "texto": "Confía en mejorar mejor que ayer."
+    },
+    {
+      "id": 1040,
+      "texto": "Confía en mejorar en serio."
+    },
+    {
+      "id": 1041,
+      "texto": "Confía en aprender hoy."
+    },
+    {
+      "id": 1042,
+      "texto": "Confía en aprender ahora."
+    },
+    {
+      "id": 1043,
+      "texto": "Confía en aprender sin miedo."
+    },
+    {
+      "id": 1044,
+      "texto": "Confía en aprender con humor."
+    },
+    {
+      "id": 1045,
+      "texto": "Confía en aprender con ganas."
+    },
+    {
+      "id": 1046,
+      "texto": "Confía en aprender a tu ritmo."
+    },
+    {
+      "id": 1047,
+      "texto": "Confía en aprender con intención."
+    },
+    {
+      "id": 1048,
+      "texto": "Confía en aprender sin excusas."
+    },
+    {
+      "id": 1049,
+      "texto": "Confía en aprender mejor que ayer."
+    },
+    {
+      "id": 1050,
+      "texto": "Confía en aprender en serio."
+    },
+    {
+      "id": 1051,
+      "texto": "Confía en actuar hoy."
+    },
+    {
+      "id": 1052,
+      "texto": "Confía en actuar ahora."
+    },
+    {
+      "id": 1053,
+      "texto": "Confía en actuar sin miedo."
+    },
+    {
+      "id": 1054,
+      "texto": "Confía en actuar con humor."
+    },
+    {
+      "id": 1055,
+      "texto": "Confía en actuar con ganas."
+    },
+    {
+      "id": 1056,
+      "texto": "Confía en actuar a tu ritmo."
+    },
+    {
+      "id": 1057,
+      "texto": "Confía en actuar con intención."
+    },
+    {
+      "id": 1058,
+      "texto": "Confía en actuar sin excusas."
+    },
+    {
+      "id": 1059,
+      "texto": "Confía en actuar mejor que ayer."
+    },
+    {
+      "id": 1060,
+      "texto": "Confía en actuar en serio."
+    },
+    {
+      "id": 1061,
+      "texto": "Confía en disciplina hoy."
+    },
+    {
+      "id": 1062,
+      "texto": "Confía en disciplina ahora."
+    },
+    {
+      "id": 1063,
+      "texto": "Confía en disciplina sin miedo."
+    },
+    {
+      "id": 1064,
+      "texto": "Confía en disciplina con humor."
+    },
+    {
+      "id": 1065,
+      "texto": "Confía en disciplina con ganas."
+    },
+    {
+      "id": 1066,
+      "texto": "Confía en disciplina a tu ritmo."
+    },
+    {
+      "id": 1067,
+      "texto": "Confía en disciplina con intención."
+    },
+    {
+      "id": 1068,
+      "texto": "Confía en disciplina sin excusas."
+    },
+    {
+      "id": 1069,
+      "texto": "Confía en disciplina mejor que ayer."
+    },
+    {
+      "id": 1070,
+      "texto": "Confía en disciplina en serio."
+    },
+    {
+      "id": 1071,
+      "texto": "Confía en enfoque hoy."
+    },
+    {
+      "id": 1072,
+      "texto": "Confía en enfoque ahora."
+    },
+    {
+      "id": 1073,
+      "texto": "Confía en enfoque sin miedo."
+    },
+    {
+      "id": 1074,
+      "texto": "Confía en enfoque con humor."
+    },
+    {
+      "id": 1075,
+      "texto": "Confía en enfoque con ganas."
+    },
+    {
+      "id": 1076,
+      "texto": "Confía en enfoque a tu ritmo."
+    },
+    {
+      "id": 1077,
+      "texto": "Confía en enfoque con intención."
+    },
+    {
+      "id": 1078,
+      "texto": "Confía en enfoque sin excusas."
+    },
+    {
+      "id": 1079,
+      "texto": "Confía en enfoque mejor que ayer."
+    },
+    {
+      "id": 1080,
+      "texto": "Confía en enfoque en serio."
+    },
+    {
+      "id": 1081,
+      "texto": "Confía en valentía hoy."
+    },
+    {
+      "id": 1082,
+      "texto": "Confía en valentía ahora."
+    },
+    {
+      "id": 1083,
+      "texto": "Confía en valentía sin miedo."
+    },
+    {
+      "id": 1084,
+      "texto": "Confía en valentía con humor."
+    },
+    {
+      "id": 1085,
+      "texto": "Confía en valentía con ganas."
+    },
+    {
+      "id": 1086,
+      "texto": "Confía en valentía a tu ritmo."
+    },
+    {
+      "id": 1087,
+      "texto": "Confía en valentía con intención."
+    },
+    {
+      "id": 1088,
+      "texto": "Confía en valentía sin excusas."
+    },
+    {
+      "id": 1089,
+      "texto": "Confía en valentía mejor que ayer."
+    },
+    {
+      "id": 1090,
+      "texto": "Confía en valentía en serio."
+    },
+    {
+      "id": 1091,
+      "texto": "Confía en constancia hoy."
+    },
+    {
+      "id": 1092,
+      "texto": "Confía en constancia ahora."
+    },
+    {
+      "id": 1093,
+      "texto": "Confía en constancia sin miedo."
+    },
+    {
+      "id": 1094,
+      "texto": "Confía en constancia con humor."
+    },
+    {
+      "id": 1095,
+      "texto": "Confía en constancia con ganas."
+    },
+    {
+      "id": 1096,
+      "texto": "Confía en constancia a tu ritmo."
+    },
+    {
+      "id": 1097,
+      "texto": "Confía en constancia con intención."
+    },
+    {
+      "id": 1098,
+      "texto": "Confía en constancia sin excusas."
+    },
+    {
+      "id": 1099,
+      "texto": "Confía en constancia mejor que ayer."
+    },
+    {
+      "id": 1100,
+      "texto": "Confía en constancia en serio."
+    },
+    {
+      "id": 1101,
+      "texto": "Confía en acción hoy."
+    },
+    {
+      "id": 1102,
+      "texto": "Confía en acción ahora."
+    },
+    {
+      "id": 1103,
+      "texto": "Confía en acción sin miedo."
+    },
+    {
+      "id": 1104,
+      "texto": "Confía en acción con humor."
+    },
+    {
+      "id": 1105,
+      "texto": "Confía en acción con ganas."
+    },
+    {
+      "id": 1106,
+      "texto": "Confía en acción a tu ritmo."
+    },
+    {
+      "id": 1107,
+      "texto": "Confía en acción con intención."
+    },
+    {
+      "id": 1108,
+      "texto": "Confía en acción sin excusas."
+    },
+    {
+      "id": 1109,
+      "texto": "Confía en acción mejor que ayer."
+    },
+    {
+      "id": 1110,
+      "texto": "Confía en acción en serio."
+    },
+    {
+      "id": 1111,
+      "texto": "Confía en errores hoy."
+    },
+    {
+      "id": 1112,
+      "texto": "Confía en errores ahora."
+    },
+    {
+      "id": 1113,
+      "texto": "Confía en errores sin miedo."
+    },
+    {
+      "id": 1114,
+      "texto": "Confía en errores con humor."
+    },
+    {
+      "id": 1115,
+      "texto": "Confía en errores con ganas."
+    },
+    {
+      "id": 1116,
+      "texto": "Confía en errores a tu ritmo."
+    },
+    {
+      "id": 1117,
+      "texto": "Confía en errores con intención."
+    },
+    {
+      "id": 1118,
+      "texto": "Confía en errores sin excusas."
+    },
+    {
+      "id": 1119,
+      "texto": "Confía en errores mejor que ayer."
+    },
+    {
+      "id": 1120,
+      "texto": "Confía en errores en serio."
+    },
+    {
+      "id": 1121,
+      "texto": "Confía en excusa hoy."
+    },
+    {
+      "id": 1122,
+      "texto": "Confía en excusa ahora."
+    },
+    {
+      "id": 1123,
+      "texto": "Confía en excusa sin miedo."
+    },
+    {
+      "id": 1124,
+      "texto": "Confía en excusa con humor."
+    },
+    {
+      "id": 1125,
+      "texto": "Confía en excusa con ganas."
+    },
+    {
+      "id": 1126,
+      "texto": "Confía en excusa a tu ritmo."
+    },
+    {
+      "id": 1127,
+      "texto": "Confía en excusa con intención."
+    },
+    {
+      "id": 1128,
+      "texto": "Confía en excusa sin excusas."
+    },
+    {
+      "id": 1129,
+      "texto": "Confía en excusa mejor que ayer."
+    },
+    {
+      "id": 1130,
+      "texto": "Confía en excusa en serio."
+    },
+    {
+      "id": 1131,
+      "texto": "Confía en comodidad hoy."
+    },
+    {
+      "id": 1132,
+      "texto": "Confía en comodidad ahora."
+    },
+    {
+      "id": 1133,
+      "texto": "Confía en comodidad sin miedo."
+    },
+    {
+      "id": 1134,
+      "texto": "Confía en comodidad con humor."
+    },
+    {
+      "id": 1135,
+      "texto": "Confía en comodidad con ganas."
+    },
+    {
+      "id": 1136,
+      "texto": "Confía en comodidad a tu ritmo."
+    },
+    {
+      "id": 1137,
+      "texto": "Confía en comodidad con intención."
+    },
+    {
+      "id": 1138,
+      "texto": "Confía en comodidad sin excusas."
+    },
+    {
+      "id": 1139,
+      "texto": "Confía en comodidad mejor que ayer."
+    },
+    {
+      "id": 1140,
+      "texto": "Confía en comodidad en serio."
+    },
+    {
+      "id": 1141,
+      "texto": "Confía en progreso hoy."
+    },
+    {
+      "id": 1142,
+      "texto": "Confía en progreso ahora."
+    },
+    {
+      "id": 1143,
+      "texto": "Confía en progreso sin miedo."
+    },
+    {
+      "id": 1144,
+      "texto": "Confía en progreso con humor."
+    },
+    {
+      "id": 1145,
+      "texto": "Confía en progreso con ganas."
+    },
+    {
+      "id": 1146,
+      "texto": "Confía en progreso a tu ritmo."
+    },
+    {
+      "id": 1147,
+      "texto": "Confía en progreso con intención."
+    },
+    {
+      "id": 1148,
+      "texto": "Confía en progreso sin excusas."
+    },
+    {
+      "id": 1149,
+      "texto": "Confía en progreso mejor que ayer."
+    },
+    {
+      "id": 1150,
+      "texto": "Confía en progreso en serio."
+    },
+    {
+      "id": 1151,
+      "texto": "Confía en energía hoy."
+    },
+    {
+      "id": 1152,
+      "texto": "Confía en energía ahora."
+    },
+    {
+      "id": 1153,
+      "texto": "Confía en energía sin miedo."
+    },
+    {
+      "id": 1154,
+      "texto": "Confía en energía con humor."
+    },
+    {
+      "id": 1155,
+      "texto": "Confía en energía con ganas."
+    },
+    {
+      "id": 1156,
+      "texto": "Confía en energía a tu ritmo."
+    },
+    {
+      "id": 1157,
+      "texto": "Confía en energía con intención."
+    },
+    {
+      "id": 1158,
+      "texto": "Confía en energía sin excusas."
+    },
+    {
+      "id": 1159,
+      "texto": "Confía en energía mejor que ayer."
+    },
+    {
+      "id": 1160,
+      "texto": "Confía en energía en serio."
+    },
+    {
+      "id": 1161,
+      "texto": "Confía en humor hoy."
+    },
+    {
+      "id": 1162,
+      "texto": "Confía en humor ahora."
+    },
+    {
+      "id": 1163,
+      "texto": "Confía en humor sin miedo."
+    },
+    {
+      "id": 1164,
+      "texto": "Confía en humor con humor."
+    },
+    {
+      "id": 1165,
+      "texto": "Confía en humor con ganas."
+    },
+    {
+      "id": 1166,
+      "texto": "Confía en humor a tu ritmo."
+    },
+    {
+      "id": 1167,
+      "texto": "Confía en humor con intención."
+    },
+    {
+      "id": 1168,
+      "texto": "Confía en humor sin excusas."
+    },
+    {
+      "id": 1169,
+      "texto": "Confía en humor mejor que ayer."
+    },
+    {
+      "id": 1170,
+      "texto": "Confía en humor en serio."
+    },
+    {
+      "id": 1171,
+      "texto": "Confía en paciencia hoy."
+    },
+    {
+      "id": 1172,
+      "texto": "Confía en paciencia ahora."
+    },
+    {
+      "id": 1173,
+      "texto": "Confía en paciencia sin miedo."
+    },
+    {
+      "id": 1174,
+      "texto": "Confía en paciencia con humor."
+    },
+    {
+      "id": 1175,
+      "texto": "Confía en paciencia con ganas."
+    },
+    {
+      "id": 1176,
+      "texto": "Confía en paciencia a tu ritmo."
+    },
+    {
+      "id": 1177,
+      "texto": "Confía en paciencia con intención."
+    },
+    {
+      "id": 1178,
+      "texto": "Confía en paciencia sin excusas."
+    },
+    {
+      "id": 1179,
+      "texto": "Confía en paciencia mejor que ayer."
+    },
+    {
+      "id": 1180,
+      "texto": "Confía en paciencia en serio."
+    },
+    {
+      "id": 1181,
+      "texto": "Confía en intención hoy."
+    },
+    {
+      "id": 1182,
+      "texto": "Confía en intención ahora."
+    },
+    {
+      "id": 1183,
+      "texto": "Confía en intención sin miedo."
+    },
+    {
+      "id": 1184,
+      "texto": "Confía en intención con humor."
+    },
+    {
+      "id": 1185,
+      "texto": "Confía en intención con ganas."
+    },
+    {
+      "id": 1186,
+      "texto": "Confía en intención a tu ritmo."
+    },
+    {
+      "id": 1187,
+      "texto": "Confía en intención con intención."
+    },
+    {
+      "id": 1188,
+      "texto": "Confía en intención sin excusas."
+    },
+    {
+      "id": 1189,
+      "texto": "Confía en intención mejor que ayer."
+    },
+    {
+      "id": 1190,
+      "texto": "Confía en intención en serio."
+    },
+    {
+      "id": 1191,
+      "texto": "Confía en determinación hoy."
+    },
+    {
+      "id": 1192,
+      "texto": "Confía en determinación ahora."
+    },
+    {
+      "id": 1193,
+      "texto": "Confía en determinación sin miedo."
+    },
+    {
+      "id": 1194,
+      "texto": "Confía en determinación con humor."
+    },
+    {
+      "id": 1195,
+      "texto": "Confía en determinación con ganas."
+    },
+    {
+      "id": 1196,
+      "texto": "Confía en determinación a tu ritmo."
+    },
+    {
+      "id": 1197,
+      "texto": "Confía en determinación con intención."
+    },
+    {
+      "id": 1198,
+      "texto": "Confía en determinación sin excusas."
+    },
+    {
+      "id": 1199,
+      "texto": "Confía en determinación mejor que ayer."
+    },
+    {
+      "id": 1200,
+      "texto": "Confía en determinación en serio."
+    },
+    {
+      "id": 1201,
+      "texto": "Da el paso hacia empezar hoy."
+    },
+    {
+      "id": 1202,
+      "texto": "Da el paso hacia empezar ahora."
+    },
+    {
+      "id": 1203,
+      "texto": "Da el paso hacia empezar sin miedo."
+    },
+    {
+      "id": 1204,
+      "texto": "Da el paso hacia empezar con humor."
+    },
+    {
+      "id": 1205,
+      "texto": "Da el paso hacia empezar con ganas."
+    },
+    {
+      "id": 1206,
+      "texto": "Da el paso hacia empezar a tu ritmo."
+    },
+    {
+      "id": 1207,
+      "texto": "Da el paso hacia empezar con intención."
+    },
+    {
+      "id": 1208,
+      "texto": "Da el paso hacia empezar sin excusas."
+    },
+    {
+      "id": 1209,
+      "texto": "Da el paso hacia empezar mejor que ayer."
+    },
+    {
+      "id": 1210,
+      "texto": "Da el paso hacia empezar en serio."
+    },
+    {
+      "id": 1211,
+      "texto": "Da el paso hacia crecer hoy."
+    },
+    {
+      "id": 1212,
+      "texto": "Da el paso hacia crecer ahora."
+    },
+    {
+      "id": 1213,
+      "texto": "Da el paso hacia crecer sin miedo."
+    },
+    {
+      "id": 1214,
+      "texto": "Da el paso hacia crecer con humor."
+    },
+    {
+      "id": 1215,
+      "texto": "Da el paso hacia crecer con ganas."
+    },
+    {
+      "id": 1216,
+      "texto": "Da el paso hacia crecer a tu ritmo."
+    },
+    {
+      "id": 1217,
+      "texto": "Da el paso hacia crecer con intención."
+    },
+    {
+      "id": 1218,
+      "texto": "Da el paso hacia crecer sin excusas."
+    },
+    {
+      "id": 1219,
+      "texto": "Da el paso hacia crecer mejor que ayer."
+    },
+    {
+      "id": 1220,
+      "texto": "Da el paso hacia crecer en serio."
+    },
+    {
+      "id": 1221,
+      "texto": "Da el paso hacia intentar hoy."
+    },
+    {
+      "id": 1222,
+      "texto": "Da el paso hacia intentar ahora."
+    },
+    {
+      "id": 1223,
+      "texto": "Da el paso hacia intentar sin miedo."
+    },
+    {
+      "id": 1224,
+      "texto": "Da el paso hacia intentar con humor."
+    },
+    {
+      "id": 1225,
+      "texto": "Da el paso hacia intentar con ganas."
+    },
+    {
+      "id": 1226,
+      "texto": "Da el paso hacia intentar a tu ritmo."
+    },
+    {
+      "id": 1227,
+      "texto": "Da el paso hacia intentar con intención."
+    },
+    {
+      "id": 1228,
+      "texto": "Da el paso hacia intentar sin excusas."
+    },
+    {
+      "id": 1229,
+      "texto": "Da el paso hacia intentar mejor que ayer."
+    },
+    {
+      "id": 1230,
+      "texto": "Da el paso hacia intentar en serio."
+    },
+    {
+      "id": 1231,
+      "texto": "Da el paso hacia mejorar hoy."
+    },
+    {
+      "id": 1232,
+      "texto": "Da el paso hacia mejorar ahora."
+    },
+    {
+      "id": 1233,
+      "texto": "Da el paso hacia mejorar sin miedo."
+    },
+    {
+      "id": 1234,
+      "texto": "Da el paso hacia mejorar con humor."
+    },
+    {
+      "id": 1235,
+      "texto": "Da el paso hacia mejorar con ganas."
+    },
+    {
+      "id": 1236,
+      "texto": "Da el paso hacia mejorar a tu ritmo."
+    },
+    {
+      "id": 1237,
+      "texto": "Da el paso hacia mejorar con intención."
+    },
+    {
+      "id": 1238,
+      "texto": "Da el paso hacia mejorar sin excusas."
+    },
+    {
+      "id": 1239,
+      "texto": "Da el paso hacia mejorar mejor que ayer."
+    },
+    {
+      "id": 1240,
+      "texto": "Da el paso hacia mejorar en serio."
+    },
+    {
+      "id": 1241,
+      "texto": "Da el paso hacia aprender hoy."
+    },
+    {
+      "id": 1242,
+      "texto": "Da el paso hacia aprender ahora."
+    },
+    {
+      "id": 1243,
+      "texto": "Da el paso hacia aprender sin miedo."
+    },
+    {
+      "id": 1244,
+      "texto": "Da el paso hacia aprender con humor."
+    },
+    {
+      "id": 1245,
+      "texto": "Da el paso hacia aprender con ganas."
+    },
+    {
+      "id": 1246,
+      "texto": "Da el paso hacia aprender a tu ritmo."
+    },
+    {
+      "id": 1247,
+      "texto": "Da el paso hacia aprender con intención."
+    },
+    {
+      "id": 1248,
+      "texto": "Da el paso hacia aprender sin excusas."
+    },
+    {
+      "id": 1249,
+      "texto": "Da el paso hacia aprender mejor que ayer."
+    },
+    {
+      "id": 1250,
+      "texto": "Da el paso hacia aprender en serio."
+    },
+    {
+      "id": 1251,
+      "texto": "Da el paso hacia actuar hoy."
+    },
+    {
+      "id": 1252,
+      "texto": "Da el paso hacia actuar ahora."
+    },
+    {
+      "id": 1253,
+      "texto": "Da el paso hacia actuar sin miedo."
+    },
+    {
+      "id": 1254,
+      "texto": "Da el paso hacia actuar con humor."
+    },
+    {
+      "id": 1255,
+      "texto": "Da el paso hacia actuar con ganas."
+    },
+    {
+      "id": 1256,
+      "texto": "Da el paso hacia actuar a tu ritmo."
+    },
+    {
+      "id": 1257,
+      "texto": "Da el paso hacia actuar con intención."
+    },
+    {
+      "id": 1258,
+      "texto": "Da el paso hacia actuar sin excusas."
+    },
+    {
+      "id": 1259,
+      "texto": "Da el paso hacia actuar mejor que ayer."
+    },
+    {
+      "id": 1260,
+      "texto": "Da el paso hacia actuar en serio."
+    },
+    {
+      "id": 1261,
+      "texto": "Da el paso hacia disciplina hoy."
+    },
+    {
+      "id": 1262,
+      "texto": "Da el paso hacia disciplina ahora."
+    },
+    {
+      "id": 1263,
+      "texto": "Da el paso hacia disciplina sin miedo."
+    },
+    {
+      "id": 1264,
+      "texto": "Da el paso hacia disciplina con humor."
+    },
+    {
+      "id": 1265,
+      "texto": "Da el paso hacia disciplina con ganas."
+    },
+    {
+      "id": 1266,
+      "texto": "Da el paso hacia disciplina a tu ritmo."
+    },
+    {
+      "id": 1267,
+      "texto": "Da el paso hacia disciplina con intención."
+    },
+    {
+      "id": 1268,
+      "texto": "Da el paso hacia disciplina sin excusas."
+    },
+    {
+      "id": 1269,
+      "texto": "Da el paso hacia disciplina mejor que ayer."
+    },
+    {
+      "id": 1270,
+      "texto": "Da el paso hacia disciplina en serio."
+    },
+    {
+      "id": 1271,
+      "texto": "Da el paso hacia enfoque hoy."
+    },
+    {
+      "id": 1272,
+      "texto": "Da el paso hacia enfoque ahora."
+    },
+    {
+      "id": 1273,
+      "texto": "Da el paso hacia enfoque sin miedo."
+    },
+    {
+      "id": 1274,
+      "texto": "Da el paso hacia enfoque con humor."
+    },
+    {
+      "id": 1275,
+      "texto": "Da el paso hacia enfoque con ganas."
+    },
+    {
+      "id": 1276,
+      "texto": "Da el paso hacia enfoque a tu ritmo."
+    },
+    {
+      "id": 1277,
+      "texto": "Da el paso hacia enfoque con intención."
+    },
+    {
+      "id": 1278,
+      "texto": "Da el paso hacia enfoque sin excusas."
+    },
+    {
+      "id": 1279,
+      "texto": "Da el paso hacia enfoque mejor que ayer."
+    },
+    {
+      "id": 1280,
+      "texto": "Da el paso hacia enfoque en serio."
+    },
+    {
+      "id": 1281,
+      "texto": "Da el paso hacia valentía hoy."
+    },
+    {
+      "id": 1282,
+      "texto": "Da el paso hacia valentía ahora."
+    },
+    {
+      "id": 1283,
+      "texto": "Da el paso hacia valentía sin miedo."
+    },
+    {
+      "id": 1284,
+      "texto": "Da el paso hacia valentía con humor."
+    },
+    {
+      "id": 1285,
+      "texto": "Da el paso hacia valentía con ganas."
+    },
+    {
+      "id": 1286,
+      "texto": "Da el paso hacia valentía a tu ritmo."
+    },
+    {
+      "id": 1287,
+      "texto": "Da el paso hacia valentía con intención."
+    },
+    {
+      "id": 1288,
+      "texto": "Da el paso hacia valentía sin excusas."
+    },
+    {
+      "id": 1289,
+      "texto": "Da el paso hacia valentía mejor que ayer."
+    },
+    {
+      "id": 1290,
+      "texto": "Da el paso hacia valentía en serio."
+    },
+    {
+      "id": 1291,
+      "texto": "Da el paso hacia constancia hoy."
+    },
+    {
+      "id": 1292,
+      "texto": "Da el paso hacia constancia ahora."
+    },
+    {
+      "id": 1293,
+      "texto": "Da el paso hacia constancia sin miedo."
+    },
+    {
+      "id": 1294,
+      "texto": "Da el paso hacia constancia con humor."
+    },
+    {
+      "id": 1295,
+      "texto": "Da el paso hacia constancia con ganas."
+    },
+    {
+      "id": 1296,
+      "texto": "Da el paso hacia constancia a tu ritmo."
+    },
+    {
+      "id": 1297,
+      "texto": "Da el paso hacia constancia con intención."
+    },
+    {
+      "id": 1298,
+      "texto": "Da el paso hacia constancia sin excusas."
+    },
+    {
+      "id": 1299,
+      "texto": "Da el paso hacia constancia mejor que ayer."
+    },
+    {
+      "id": 1300,
+      "texto": "Da el paso hacia constancia en serio."
+    },
+    {
+      "id": 1301,
+      "texto": "Da el paso hacia acción hoy."
+    },
+    {
+      "id": 1302,
+      "texto": "Da el paso hacia acción ahora."
+    },
+    {
+      "id": 1303,
+      "texto": "Da el paso hacia acción sin miedo."
+    },
+    {
+      "id": 1304,
+      "texto": "Da el paso hacia acción con humor."
+    },
+    {
+      "id": 1305,
+      "texto": "Da el paso hacia acción con ganas."
+    },
+    {
+      "id": 1306,
+      "texto": "Da el paso hacia acción a tu ritmo."
+    },
+    {
+      "id": 1307,
+      "texto": "Da el paso hacia acción con intención."
+    },
+    {
+      "id": 1308,
+      "texto": "Da el paso hacia acción sin excusas."
+    },
+    {
+      "id": 1309,
+      "texto": "Da el paso hacia acción mejor que ayer."
+    },
+    {
+      "id": 1310,
+      "texto": "Da el paso hacia acción en serio."
+    },
+    {
+      "id": 1311,
+      "texto": "Da el paso hacia errores hoy."
+    },
+    {
+      "id": 1312,
+      "texto": "Da el paso hacia errores ahora."
+    },
+    {
+      "id": 1313,
+      "texto": "Da el paso hacia errores sin miedo."
+    },
+    {
+      "id": 1314,
+      "texto": "Da el paso hacia errores con humor."
+    },
+    {
+      "id": 1315,
+      "texto": "Da el paso hacia errores con ganas."
+    },
+    {
+      "id": 1316,
+      "texto": "Da el paso hacia errores a tu ritmo."
+    },
+    {
+      "id": 1317,
+      "texto": "Da el paso hacia errores con intención."
+    },
+    {
+      "id": 1318,
+      "texto": "Da el paso hacia errores sin excusas."
+    },
+    {
+      "id": 1319,
+      "texto": "Da el paso hacia errores mejor que ayer."
+    },
+    {
+      "id": 1320,
+      "texto": "Da el paso hacia errores en serio."
+    },
+    {
+      "id": 1321,
+      "texto": "Da el paso hacia excusa hoy."
+    },
+    {
+      "id": 1322,
+      "texto": "Da el paso hacia excusa ahora."
+    },
+    {
+      "id": 1323,
+      "texto": "Da el paso hacia excusa sin miedo."
+    },
+    {
+      "id": 1324,
+      "texto": "Da el paso hacia excusa con humor."
+    },
+    {
+      "id": 1325,
+      "texto": "Da el paso hacia excusa con ganas."
+    },
+    {
+      "id": 1326,
+      "texto": "Da el paso hacia excusa a tu ritmo."
+    },
+    {
+      "id": 1327,
+      "texto": "Da el paso hacia excusa con intención."
+    },
+    {
+      "id": 1328,
+      "texto": "Da el paso hacia excusa sin excusas."
+    },
+    {
+      "id": 1329,
+      "texto": "Da el paso hacia excusa mejor que ayer."
+    },
+    {
+      "id": 1330,
+      "texto": "Da el paso hacia excusa en serio."
+    },
+    {
+      "id": 1331,
+      "texto": "Da el paso hacia comodidad hoy."
+    },
+    {
+      "id": 1332,
+      "texto": "Da el paso hacia comodidad ahora."
+    },
+    {
+      "id": 1333,
+      "texto": "Da el paso hacia comodidad sin miedo."
+    },
+    {
+      "id": 1334,
+      "texto": "Da el paso hacia comodidad con humor."
+    },
+    {
+      "id": 1335,
+      "texto": "Da el paso hacia comodidad con ganas."
+    },
+    {
+      "id": 1336,
+      "texto": "Da el paso hacia comodidad a tu ritmo."
+    },
+    {
+      "id": 1337,
+      "texto": "Da el paso hacia comodidad con intención."
+    },
+    {
+      "id": 1338,
+      "texto": "Da el paso hacia comodidad sin excusas."
+    },
+    {
+      "id": 1339,
+      "texto": "Da el paso hacia comodidad mejor que ayer."
+    },
+    {
+      "id": 1340,
+      "texto": "Da el paso hacia comodidad en serio."
+    },
+    {
+      "id": 1341,
+      "texto": "Da el paso hacia progreso hoy."
+    },
+    {
+      "id": 1342,
+      "texto": "Da el paso hacia progreso ahora."
+    },
+    {
+      "id": 1343,
+      "texto": "Da el paso hacia progreso sin miedo."
+    },
+    {
+      "id": 1344,
+      "texto": "Da el paso hacia progreso con humor."
+    },
+    {
+      "id": 1345,
+      "texto": "Da el paso hacia progreso con ganas."
+    },
+    {
+      "id": 1346,
+      "texto": "Da el paso hacia progreso a tu ritmo."
+    },
+    {
+      "id": 1347,
+      "texto": "Da el paso hacia progreso con intención."
+    },
+    {
+      "id": 1348,
+      "texto": "Da el paso hacia progreso sin excusas."
+    },
+    {
+      "id": 1349,
+      "texto": "Da el paso hacia progreso mejor que ayer."
+    },
+    {
+      "id": 1350,
+      "texto": "Da el paso hacia progreso en serio."
+    },
+    {
+      "id": 1351,
+      "texto": "Da el paso hacia energía hoy."
+    },
+    {
+      "id": 1352,
+      "texto": "Da el paso hacia energía ahora."
+    },
+    {
+      "id": 1353,
+      "texto": "Da el paso hacia energía sin miedo."
+    },
+    {
+      "id": 1354,
+      "texto": "Da el paso hacia energía con humor."
+    },
+    {
+      "id": 1355,
+      "texto": "Da el paso hacia energía con ganas."
+    },
+    {
+      "id": 1356,
+      "texto": "Da el paso hacia energía a tu ritmo."
+    },
+    {
+      "id": 1357,
+      "texto": "Da el paso hacia energía con intención."
+    },
+    {
+      "id": 1358,
+      "texto": "Da el paso hacia energía sin excusas."
+    },
+    {
+      "id": 1359,
+      "texto": "Da el paso hacia energía mejor que ayer."
+    },
+    {
+      "id": 1360,
+      "texto": "Da el paso hacia energía en serio."
+    },
+    {
+      "id": 1361,
+      "texto": "Da el paso hacia humor hoy."
+    },
+    {
+      "id": 1362,
+      "texto": "Da el paso hacia humor ahora."
+    },
+    {
+      "id": 1363,
+      "texto": "Da el paso hacia humor sin miedo."
+    },
+    {
+      "id": 1364,
+      "texto": "Da el paso hacia humor con humor."
+    },
+    {
+      "id": 1365,
+      "texto": "Da el paso hacia humor con ganas."
+    },
+    {
+      "id": 1366,
+      "texto": "Da el paso hacia humor a tu ritmo."
+    },
+    {
+      "id": 1367,
+      "texto": "Da el paso hacia humor con intención."
+    },
+    {
+      "id": 1368,
+      "texto": "Da el paso hacia humor sin excusas."
+    },
+    {
+      "id": 1369,
+      "texto": "Da el paso hacia humor mejor que ayer."
+    },
+    {
+      "id": 1370,
+      "texto": "Da el paso hacia humor en serio."
+    },
+    {
+      "id": 1371,
+      "texto": "Da el paso hacia paciencia hoy."
+    },
+    {
+      "id": 1372,
+      "texto": "Da el paso hacia paciencia ahora."
+    },
+    {
+      "id": 1373,
+      "texto": "Da el paso hacia paciencia sin miedo."
+    },
+    {
+      "id": 1374,
+      "texto": "Da el paso hacia paciencia con humor."
+    },
+    {
+      "id": 1375,
+      "texto": "Da el paso hacia paciencia con ganas."
+    },
+    {
+      "id": 1376,
+      "texto": "Da el paso hacia paciencia a tu ritmo."
+    },
+    {
+      "id": 1377,
+      "texto": "Da el paso hacia paciencia con intención."
+    },
+    {
+      "id": 1378,
+      "texto": "Da el paso hacia paciencia sin excusas."
+    },
+    {
+      "id": 1379,
+      "texto": "Da el paso hacia paciencia mejor que ayer."
+    },
+    {
+      "id": 1380,
+      "texto": "Da el paso hacia paciencia en serio."
+    },
+    {
+      "id": 1381,
+      "texto": "Da el paso hacia intención hoy."
+    },
+    {
+      "id": 1382,
+      "texto": "Da el paso hacia intención ahora."
+    },
+    {
+      "id": 1383,
+      "texto": "Da el paso hacia intención sin miedo."
+    },
+    {
+      "id": 1384,
+      "texto": "Da el paso hacia intención con humor."
+    },
+    {
+      "id": 1385,
+      "texto": "Da el paso hacia intención con ganas."
+    },
+    {
+      "id": 1386,
+      "texto": "Da el paso hacia intención a tu ritmo."
+    },
+    {
+      "id": 1387,
+      "texto": "Da el paso hacia intención con intención."
+    },
+    {
+      "id": 1388,
+      "texto": "Da el paso hacia intención sin excusas."
+    },
+    {
+      "id": 1389,
+      "texto": "Da el paso hacia intención mejor que ayer."
+    },
+    {
+      "id": 1390,
+      "texto": "Da el paso hacia intención en serio."
+    },
+    {
+      "id": 1391,
+      "texto": "Da el paso hacia determinación hoy."
+    },
+    {
+      "id": 1392,
+      "texto": "Da el paso hacia determinación ahora."
+    },
+    {
+      "id": 1393,
+      "texto": "Da el paso hacia determinación sin miedo."
+    },
+    {
+      "id": 1394,
+      "texto": "Da el paso hacia determinación con humor."
+    },
+    {
+      "id": 1395,
+      "texto": "Da el paso hacia determinación con ganas."
+    },
+    {
+      "id": 1396,
+      "texto": "Da el paso hacia determinación a tu ritmo."
+    },
+    {
+      "id": 1397,
+      "texto": "Da el paso hacia determinación con intención."
+    },
+    {
+      "id": 1398,
+      "texto": "Da el paso hacia determinación sin excusas."
+    },
+    {
+      "id": 1399,
+      "texto": "Da el paso hacia determinación mejor que ayer."
+    },
+    {
+      "id": 1400,
+      "texto": "Da el paso hacia determinación en serio."
+    },
+    {
+      "id": 1401,
+      "texto": "No esperes permiso para empezar hoy."
+    },
+    {
+      "id": 1402,
+      "texto": "No esperes permiso para empezar ahora."
+    },
+    {
+      "id": 1403,
+      "texto": "No esperes permiso para empezar sin miedo."
+    },
+    {
+      "id": 1404,
+      "texto": "No esperes permiso para empezar con humor."
+    },
+    {
+      "id": 1405,
+      "texto": "No esperes permiso para empezar con ganas."
+    },
+    {
+      "id": 1406,
+      "texto": "No esperes permiso para empezar a tu ritmo."
+    },
+    {
+      "id": 1407,
+      "texto": "No esperes permiso para empezar con intención."
+    },
+    {
+      "id": 1408,
+      "texto": "No esperes permiso para empezar sin excusas."
+    },
+    {
+      "id": 1409,
+      "texto": "No esperes permiso para empezar mejor que ayer."
+    },
+    {
+      "id": 1410,
+      "texto": "No esperes permiso para empezar en serio."
+    },
+    {
+      "id": 1411,
+      "texto": "No esperes permiso para crecer hoy."
+    },
+    {
+      "id": 1412,
+      "texto": "No esperes permiso para crecer ahora."
+    },
+    {
+      "id": 1413,
+      "texto": "No esperes permiso para crecer sin miedo."
+    },
+    {
+      "id": 1414,
+      "texto": "No esperes permiso para crecer con humor."
+    },
+    {
+      "id": 1415,
+      "texto": "No esperes permiso para crecer con ganas."
+    },
+    {
+      "id": 1416,
+      "texto": "No esperes permiso para crecer a tu ritmo."
+    },
+    {
+      "id": 1417,
+      "texto": "No esperes permiso para crecer con intención."
+    },
+    {
+      "id": 1418,
+      "texto": "No esperes permiso para crecer sin excusas."
+    },
+    {
+      "id": 1419,
+      "texto": "No esperes permiso para crecer mejor que ayer."
+    },
+    {
+      "id": 1420,
+      "texto": "No esperes permiso para crecer en serio."
+    },
+    {
+      "id": 1421,
+      "texto": "No esperes permiso para intentar hoy."
+    },
+    {
+      "id": 1422,
+      "texto": "No esperes permiso para intentar ahora."
+    },
+    {
+      "id": 1423,
+      "texto": "No esperes permiso para intentar sin miedo."
+    },
+    {
+      "id": 1424,
+      "texto": "No esperes permiso para intentar con humor."
+    },
+    {
+      "id": 1425,
+      "texto": "No esperes permiso para intentar con ganas."
+    },
+    {
+      "id": 1426,
+      "texto": "No esperes permiso para intentar a tu ritmo."
+    },
+    {
+      "id": 1427,
+      "texto": "No esperes permiso para intentar con intención."
+    },
+    {
+      "id": 1428,
+      "texto": "No esperes permiso para intentar sin excusas."
+    },
+    {
+      "id": 1429,
+      "texto": "No esperes permiso para intentar mejor que ayer."
+    },
+    {
+      "id": 1430,
+      "texto": "No esperes permiso para intentar en serio."
+    },
+    {
+      "id": 1431,
+      "texto": "No esperes permiso para mejorar hoy."
+    },
+    {
+      "id": 1432,
+      "texto": "No esperes permiso para mejorar ahora."
+    },
+    {
+      "id": 1433,
+      "texto": "No esperes permiso para mejorar sin miedo."
+    },
+    {
+      "id": 1434,
+      "texto": "No esperes permiso para mejorar con humor."
+    },
+    {
+      "id": 1435,
+      "texto": "No esperes permiso para mejorar con ganas."
+    },
+    {
+      "id": 1436,
+      "texto": "No esperes permiso para mejorar a tu ritmo."
+    },
+    {
+      "id": 1437,
+      "texto": "No esperes permiso para mejorar con intención."
+    },
+    {
+      "id": 1438,
+      "texto": "No esperes permiso para mejorar sin excusas."
+    },
+    {
+      "id": 1439,
+      "texto": "No esperes permiso para mejorar mejor que ayer."
+    },
+    {
+      "id": 1440,
+      "texto": "No esperes permiso para mejorar en serio."
+    },
+    {
+      "id": 1441,
+      "texto": "No esperes permiso para aprender hoy."
+    },
+    {
+      "id": 1442,
+      "texto": "No esperes permiso para aprender ahora."
+    },
+    {
+      "id": 1443,
+      "texto": "No esperes permiso para aprender sin miedo."
+    },
+    {
+      "id": 1444,
+      "texto": "No esperes permiso para aprender con humor."
+    },
+    {
+      "id": 1445,
+      "texto": "No esperes permiso para aprender con ganas."
+    },
+    {
+      "id": 1446,
+      "texto": "No esperes permiso para aprender a tu ritmo."
+    },
+    {
+      "id": 1447,
+      "texto": "No esperes permiso para aprender con intención."
+    },
+    {
+      "id": 1448,
+      "texto": "No esperes permiso para aprender sin excusas."
+    },
+    {
+      "id": 1449,
+      "texto": "No esperes permiso para aprender mejor que ayer."
+    },
+    {
+      "id": 1450,
+      "texto": "No esperes permiso para aprender en serio."
+    },
+    {
+      "id": 1451,
+      "texto": "No esperes permiso para actuar hoy."
+    },
+    {
+      "id": 1452,
+      "texto": "No esperes permiso para actuar ahora."
+    },
+    {
+      "id": 1453,
+      "texto": "No esperes permiso para actuar sin miedo."
+    },
+    {
+      "id": 1454,
+      "texto": "No esperes permiso para actuar con humor."
+    },
+    {
+      "id": 1455,
+      "texto": "No esperes permiso para actuar con ganas."
+    },
+    {
+      "id": 1456,
+      "texto": "No esperes permiso para actuar a tu ritmo."
+    },
+    {
+      "id": 1457,
+      "texto": "No esperes permiso para actuar con intención."
+    },
+    {
+      "id": 1458,
+      "texto": "No esperes permiso para actuar sin excusas."
+    },
+    {
+      "id": 1459,
+      "texto": "No esperes permiso para actuar mejor que ayer."
+    },
+    {
+      "id": 1460,
+      "texto": "No esperes permiso para actuar en serio."
+    },
+    {
+      "id": 1461,
+      "texto": "No esperes permiso para disciplina hoy."
+    },
+    {
+      "id": 1462,
+      "texto": "No esperes permiso para disciplina ahora."
+    },
+    {
+      "id": 1463,
+      "texto": "No esperes permiso para disciplina sin miedo."
+    },
+    {
+      "id": 1464,
+      "texto": "No esperes permiso para disciplina con humor."
+    },
+    {
+      "id": 1465,
+      "texto": "No esperes permiso para disciplina con ganas."
+    },
+    {
+      "id": 1466,
+      "texto": "No esperes permiso para disciplina a tu ritmo."
+    },
+    {
+      "id": 1467,
+      "texto": "No esperes permiso para disciplina con intención."
+    },
+    {
+      "id": 1468,
+      "texto": "No esperes permiso para disciplina sin excusas."
+    },
+    {
+      "id": 1469,
+      "texto": "No esperes permiso para disciplina mejor que ayer."
+    },
+    {
+      "id": 1470,
+      "texto": "No esperes permiso para disciplina en serio."
+    },
+    {
+      "id": 1471,
+      "texto": "No esperes permiso para enfoque hoy."
+    },
+    {
+      "id": 1472,
+      "texto": "No esperes permiso para enfoque ahora."
+    },
+    {
+      "id": 1473,
+      "texto": "No esperes permiso para enfoque sin miedo."
+    },
+    {
+      "id": 1474,
+      "texto": "No esperes permiso para enfoque con humor."
+    },
+    {
+      "id": 1475,
+      "texto": "No esperes permiso para enfoque con ganas."
+    },
+    {
+      "id": 1476,
+      "texto": "No esperes permiso para enfoque a tu ritmo."
+    },
+    {
+      "id": 1477,
+      "texto": "No esperes permiso para enfoque con intención."
+    },
+    {
+      "id": 1478,
+      "texto": "No esperes permiso para enfoque sin excusas."
+    },
+    {
+      "id": 1479,
+      "texto": "No esperes permiso para enfoque mejor que ayer."
+    },
+    {
+      "id": 1480,
+      "texto": "No esperes permiso para enfoque en serio."
+    },
+    {
+      "id": 1481,
+      "texto": "No esperes permiso para valentía hoy."
+    },
+    {
+      "id": 1482,
+      "texto": "No esperes permiso para valentía ahora."
+    },
+    {
+      "id": 1483,
+      "texto": "No esperes permiso para valentía sin miedo."
+    },
+    {
+      "id": 1484,
+      "texto": "No esperes permiso para valentía con humor."
+    },
+    {
+      "id": 1485,
+      "texto": "No esperes permiso para valentía con ganas."
+    },
+    {
+      "id": 1486,
+      "texto": "No esperes permiso para valentía a tu ritmo."
+    },
+    {
+      "id": 1487,
+      "texto": "No esperes permiso para valentía con intención."
+    },
+    {
+      "id": 1488,
+      "texto": "No esperes permiso para valentía sin excusas."
+    },
+    {
+      "id": 1489,
+      "texto": "No esperes permiso para valentía mejor que ayer."
+    },
+    {
+      "id": 1490,
+      "texto": "No esperes permiso para valentía en serio."
+    },
+    {
+      "id": 1491,
+      "texto": "No esperes permiso para constancia hoy."
+    },
+    {
+      "id": 1492,
+      "texto": "No esperes permiso para constancia ahora."
+    },
+    {
+      "id": 1493,
+      "texto": "No esperes permiso para constancia sin miedo."
+    },
+    {
+      "id": 1494,
+      "texto": "No esperes permiso para constancia con humor."
+    },
+    {
+      "id": 1495,
+      "texto": "No esperes permiso para constancia con ganas."
+    },
+    {
+      "id": 1496,
+      "texto": "No esperes permiso para constancia a tu ritmo."
+    },
+    {
+      "id": 1497,
+      "texto": "No esperes permiso para constancia con intención."
+    },
+    {
+      "id": 1498,
+      "texto": "No esperes permiso para constancia sin excusas."
+    },
+    {
+      "id": 1499,
+      "texto": "No esperes permiso para constancia mejor que ayer."
+    },
+    {
+      "id": 1500,
+      "texto": "No esperes permiso para constancia en serio."
+    },
+    {
+      "id": 1501,
+      "texto": "No esperes permiso para acción hoy."
+    },
+    {
+      "id": 1502,
+      "texto": "No esperes permiso para acción ahora."
+    },
+    {
+      "id": 1503,
+      "texto": "No esperes permiso para acción sin miedo."
+    },
+    {
+      "id": 1504,
+      "texto": "No esperes permiso para acción con humor."
+    },
+    {
+      "id": 1505,
+      "texto": "No esperes permiso para acción con ganas."
+    },
+    {
+      "id": 1506,
+      "texto": "No esperes permiso para acción a tu ritmo."
+    },
+    {
+      "id": 1507,
+      "texto": "No esperes permiso para acción con intención."
+    },
+    {
+      "id": 1508,
+      "texto": "No esperes permiso para acción sin excusas."
+    },
+    {
+      "id": 1509,
+      "texto": "No esperes permiso para acción mejor que ayer."
+    },
+    {
+      "id": 1510,
+      "texto": "No esperes permiso para acción en serio."
+    },
+    {
+      "id": 1511,
+      "texto": "No esperes permiso para errores hoy."
+    },
+    {
+      "id": 1512,
+      "texto": "No esperes permiso para errores ahora."
+    },
+    {
+      "id": 1513,
+      "texto": "No esperes permiso para errores sin miedo."
+    },
+    {
+      "id": 1514,
+      "texto": "No esperes permiso para errores con humor."
+    },
+    {
+      "id": 1515,
+      "texto": "No esperes permiso para errores con ganas."
+    },
+    {
+      "id": 1516,
+      "texto": "No esperes permiso para errores a tu ritmo."
+    },
+    {
+      "id": 1517,
+      "texto": "No esperes permiso para errores con intención."
+    },
+    {
+      "id": 1518,
+      "texto": "No esperes permiso para errores sin excusas."
+    },
+    {
+      "id": 1519,
+      "texto": "No esperes permiso para errores mejor que ayer."
+    },
+    {
+      "id": 1520,
+      "texto": "No esperes permiso para errores en serio."
+    },
+    {
+      "id": 1521,
+      "texto": "No esperes permiso para excusa hoy."
+    },
+    {
+      "id": 1522,
+      "texto": "No esperes permiso para excusa ahora."
+    },
+    {
+      "id": 1523,
+      "texto": "No esperes permiso para excusa sin miedo."
+    },
+    {
+      "id": 1524,
+      "texto": "No esperes permiso para excusa con humor."
+    },
+    {
+      "id": 1525,
+      "texto": "No esperes permiso para excusa con ganas."
+    },
+    {
+      "id": 1526,
+      "texto": "No esperes permiso para excusa a tu ritmo."
+    },
+    {
+      "id": 1527,
+      "texto": "No esperes permiso para excusa con intención."
+    },
+    {
+      "id": 1528,
+      "texto": "No esperes permiso para excusa sin excusas."
+    },
+    {
+      "id": 1529,
+      "texto": "No esperes permiso para excusa mejor que ayer."
+    },
+    {
+      "id": 1530,
+      "texto": "No esperes permiso para excusa en serio."
+    },
+    {
+      "id": 1531,
+      "texto": "No esperes permiso para comodidad hoy."
+    },
+    {
+      "id": 1532,
+      "texto": "No esperes permiso para comodidad ahora."
+    },
+    {
+      "id": 1533,
+      "texto": "No esperes permiso para comodidad sin miedo."
+    },
+    {
+      "id": 1534,
+      "texto": "No esperes permiso para comodidad con humor."
+    },
+    {
+      "id": 1535,
+      "texto": "No esperes permiso para comodidad con ganas."
+    },
+    {
+      "id": 1536,
+      "texto": "No esperes permiso para comodidad a tu ritmo."
+    },
+    {
+      "id": 1537,
+      "texto": "No esperes permiso para comodidad con intención."
+    },
+    {
+      "id": 1538,
+      "texto": "No esperes permiso para comodidad sin excusas."
+    },
+    {
+      "id": 1539,
+      "texto": "No esperes permiso para comodidad mejor que ayer."
+    },
+    {
+      "id": 1540,
+      "texto": "No esperes permiso para comodidad en serio."
+    },
+    {
+      "id": 1541,
+      "texto": "No esperes permiso para progreso hoy."
+    },
+    {
+      "id": 1542,
+      "texto": "No esperes permiso para progreso ahora."
+    },
+    {
+      "id": 1543,
+      "texto": "No esperes permiso para progreso sin miedo."
+    },
+    {
+      "id": 1544,
+      "texto": "No esperes permiso para progreso con humor."
+    },
+    {
+      "id": 1545,
+      "texto": "No esperes permiso para progreso con ganas."
+    },
+    {
+      "id": 1546,
+      "texto": "No esperes permiso para progreso a tu ritmo."
+    },
+    {
+      "id": 1547,
+      "texto": "No esperes permiso para progreso con intención."
+    },
+    {
+      "id": 1548,
+      "texto": "No esperes permiso para progreso sin excusas."
+    },
+    {
+      "id": 1549,
+      "texto": "No esperes permiso para progreso mejor que ayer."
+    },
+    {
+      "id": 1550,
+      "texto": "No esperes permiso para progreso en serio."
+    },
+    {
+      "id": 1551,
+      "texto": "No esperes permiso para energía hoy."
+    },
+    {
+      "id": 1552,
+      "texto": "No esperes permiso para energía ahora."
+    },
+    {
+      "id": 1553,
+      "texto": "No esperes permiso para energía sin miedo."
+    },
+    {
+      "id": 1554,
+      "texto": "No esperes permiso para energía con humor."
+    },
+    {
+      "id": 1555,
+      "texto": "No esperes permiso para energía con ganas."
+    },
+    {
+      "id": 1556,
+      "texto": "No esperes permiso para energía a tu ritmo."
+    },
+    {
+      "id": 1557,
+      "texto": "No esperes permiso para energía con intención."
+    },
+    {
+      "id": 1558,
+      "texto": "No esperes permiso para energía sin excusas."
+    },
+    {
+      "id": 1559,
+      "texto": "No esperes permiso para energía mejor que ayer."
+    },
+    {
+      "id": 1560,
+      "texto": "No esperes permiso para energía en serio."
+    },
+    {
+      "id": 1561,
+      "texto": "No esperes permiso para humor hoy."
+    },
+    {
+      "id": 1562,
+      "texto": "No esperes permiso para humor ahora."
+    },
+    {
+      "id": 1563,
+      "texto": "No esperes permiso para humor sin miedo."
+    },
+    {
+      "id": 1564,
+      "texto": "No esperes permiso para humor con humor."
+    },
+    {
+      "id": 1565,
+      "texto": "No esperes permiso para humor con ganas."
+    },
+    {
+      "id": 1566,
+      "texto": "No esperes permiso para humor a tu ritmo."
+    },
+    {
+      "id": 1567,
+      "texto": "No esperes permiso para humor con intención."
+    },
+    {
+      "id": 1568,
+      "texto": "No esperes permiso para humor sin excusas."
+    },
+    {
+      "id": 1569,
+      "texto": "No esperes permiso para humor mejor que ayer."
+    },
+    {
+      "id": 1570,
+      "texto": "No esperes permiso para humor en serio."
+    },
+    {
+      "id": 1571,
+      "texto": "No esperes permiso para paciencia hoy."
+    },
+    {
+      "id": 1572,
+      "texto": "No esperes permiso para paciencia ahora."
+    },
+    {
+      "id": 1573,
+      "texto": "No esperes permiso para paciencia sin miedo."
+    },
+    {
+      "id": 1574,
+      "texto": "No esperes permiso para paciencia con humor."
+    },
+    {
+      "id": 1575,
+      "texto": "No esperes permiso para paciencia con ganas."
+    },
+    {
+      "id": 1576,
+      "texto": "No esperes permiso para paciencia a tu ritmo."
+    },
+    {
+      "id": 1577,
+      "texto": "No esperes permiso para paciencia con intención."
+    },
+    {
+      "id": 1578,
+      "texto": "No esperes permiso para paciencia sin excusas."
+    },
+    {
+      "id": 1579,
+      "texto": "No esperes permiso para paciencia mejor que ayer."
+    },
+    {
+      "id": 1580,
+      "texto": "No esperes permiso para paciencia en serio."
+    },
+    {
+      "id": 1581,
+      "texto": "No esperes permiso para intención hoy."
+    },
+    {
+      "id": 1582,
+      "texto": "No esperes permiso para intención ahora."
+    },
+    {
+      "id": 1583,
+      "texto": "No esperes permiso para intención sin miedo."
+    },
+    {
+      "id": 1584,
+      "texto": "No esperes permiso para intención con humor."
+    },
+    {
+      "id": 1585,
+      "texto": "No esperes permiso para intención con ganas."
+    },
+    {
+      "id": 1586,
+      "texto": "No esperes permiso para intención a tu ritmo."
+    },
+    {
+      "id": 1587,
+      "texto": "No esperes permiso para intención con intención."
+    },
+    {
+      "id": 1588,
+      "texto": "No esperes permiso para intención sin excusas."
+    },
+    {
+      "id": 1589,
+      "texto": "No esperes permiso para intención mejor que ayer."
+    },
+    {
+      "id": 1590,
+      "texto": "No esperes permiso para intención en serio."
+    },
+    {
+      "id": 1591,
+      "texto": "No esperes permiso para determinación hoy."
+    },
+    {
+      "id": 1592,
+      "texto": "No esperes permiso para determinación ahora."
+    },
+    {
+      "id": 1593,
+      "texto": "No esperes permiso para determinación sin miedo."
+    },
+    {
+      "id": 1594,
+      "texto": "No esperes permiso para determinación con humor."
+    },
+    {
+      "id": 1595,
+      "texto": "No esperes permiso para determinación con ganas."
+    },
+    {
+      "id": 1596,
+      "texto": "No esperes permiso para determinación a tu ritmo."
+    },
+    {
+      "id": 1597,
+      "texto": "No esperes permiso para determinación con intención."
+    },
+    {
+      "id": 1598,
+      "texto": "No esperes permiso para determinación sin excusas."
+    },
+    {
+      "id": 1599,
+      "texto": "No esperes permiso para determinación mejor que ayer."
+    },
+    {
+      "id": 1600,
+      "texto": "No esperes permiso para determinación en serio."
+    },
+    {
+      "id": 1601,
+      "texto": "Construye disciplina con empezar hoy."
+    },
+    {
+      "id": 1602,
+      "texto": "Construye disciplina con empezar ahora."
+    },
+    {
+      "id": 1603,
+      "texto": "Construye disciplina con empezar sin miedo."
+    },
+    {
+      "id": 1604,
+      "texto": "Construye disciplina con empezar con humor."
+    },
+    {
+      "id": 1605,
+      "texto": "Construye disciplina con empezar con ganas."
+    },
+    {
+      "id": 1606,
+      "texto": "Construye disciplina con empezar a tu ritmo."
+    },
+    {
+      "id": 1607,
+      "texto": "Construye disciplina con empezar con intención."
+    },
+    {
+      "id": 1608,
+      "texto": "Construye disciplina con empezar sin excusas."
+    },
+    {
+      "id": 1609,
+      "texto": "Construye disciplina con empezar mejor que ayer."
+    },
+    {
+      "id": 1610,
+      "texto": "Construye disciplina con empezar en serio."
+    },
+    {
+      "id": 1611,
+      "texto": "Construye disciplina con crecer hoy."
+    },
+    {
+      "id": 1612,
+      "texto": "Construye disciplina con crecer ahora."
+    },
+    {
+      "id": 1613,
+      "texto": "Construye disciplina con crecer sin miedo."
+    },
+    {
+      "id": 1614,
+      "texto": "Construye disciplina con crecer con humor."
+    },
+    {
+      "id": 1615,
+      "texto": "Construye disciplina con crecer con ganas."
+    },
+    {
+      "id": 1616,
+      "texto": "Construye disciplina con crecer a tu ritmo."
+    },
+    {
+      "id": 1617,
+      "texto": "Construye disciplina con crecer con intención."
+    },
+    {
+      "id": 1618,
+      "texto": "Construye disciplina con crecer sin excusas."
+    },
+    {
+      "id": 1619,
+      "texto": "Construye disciplina con crecer mejor que ayer."
+    },
+    {
+      "id": 1620,
+      "texto": "Construye disciplina con crecer en serio."
+    },
+    {
+      "id": 1621,
+      "texto": "Construye disciplina con intentar hoy."
+    },
+    {
+      "id": 1622,
+      "texto": "Construye disciplina con intentar ahora."
+    },
+    {
+      "id": 1623,
+      "texto": "Construye disciplina con intentar sin miedo."
+    },
+    {
+      "id": 1624,
+      "texto": "Construye disciplina con intentar con humor."
+    },
+    {
+      "id": 1625,
+      "texto": "Construye disciplina con intentar con ganas."
+    },
+    {
+      "id": 1626,
+      "texto": "Construye disciplina con intentar a tu ritmo."
+    },
+    {
+      "id": 1627,
+      "texto": "Construye disciplina con intentar con intención."
+    },
+    {
+      "id": 1628,
+      "texto": "Construye disciplina con intentar sin excusas."
+    },
+    {
+      "id": 1629,
+      "texto": "Construye disciplina con intentar mejor que ayer."
+    },
+    {
+      "id": 1630,
+      "texto": "Construye disciplina con intentar en serio."
+    },
+    {
+      "id": 1631,
+      "texto": "Construye disciplina con mejorar hoy."
+    },
+    {
+      "id": 1632,
+      "texto": "Construye disciplina con mejorar ahora."
+    },
+    {
+      "id": 1633,
+      "texto": "Construye disciplina con mejorar sin miedo."
+    },
+    {
+      "id": 1634,
+      "texto": "Construye disciplina con mejorar con humor."
+    },
+    {
+      "id": 1635,
+      "texto": "Construye disciplina con mejorar con ganas."
+    },
+    {
+      "id": 1636,
+      "texto": "Construye disciplina con mejorar a tu ritmo."
+    },
+    {
+      "id": 1637,
+      "texto": "Construye disciplina con mejorar con intención."
+    },
+    {
+      "id": 1638,
+      "texto": "Construye disciplina con mejorar sin excusas."
+    },
+    {
+      "id": 1639,
+      "texto": "Construye disciplina con mejorar mejor que ayer."
+    },
+    {
+      "id": 1640,
+      "texto": "Construye disciplina con mejorar en serio."
+    },
+    {
+      "id": 1641,
+      "texto": "Construye disciplina con aprender hoy."
+    },
+    {
+      "id": 1642,
+      "texto": "Construye disciplina con aprender ahora."
+    },
+    {
+      "id": 1643,
+      "texto": "Construye disciplina con aprender sin miedo."
+    },
+    {
+      "id": 1644,
+      "texto": "Construye disciplina con aprender con humor."
+    },
+    {
+      "id": 1645,
+      "texto": "Construye disciplina con aprender con ganas."
+    },
+    {
+      "id": 1646,
+      "texto": "Construye disciplina con aprender a tu ritmo."
+    },
+    {
+      "id": 1647,
+      "texto": "Construye disciplina con aprender con intención."
+    },
+    {
+      "id": 1648,
+      "texto": "Construye disciplina con aprender sin excusas."
+    },
+    {
+      "id": 1649,
+      "texto": "Construye disciplina con aprender mejor que ayer."
+    },
+    {
+      "id": 1650,
+      "texto": "Construye disciplina con aprender en serio."
+    },
+    {
+      "id": 1651,
+      "texto": "Construye disciplina con actuar hoy."
+    },
+    {
+      "id": 1652,
+      "texto": "Construye disciplina con actuar ahora."
+    },
+    {
+      "id": 1653,
+      "texto": "Construye disciplina con actuar sin miedo."
+    },
+    {
+      "id": 1654,
+      "texto": "Construye disciplina con actuar con humor."
+    },
+    {
+      "id": 1655,
+      "texto": "Construye disciplina con actuar con ganas."
+    },
+    {
+      "id": 1656,
+      "texto": "Construye disciplina con actuar a tu ritmo."
+    },
+    {
+      "id": 1657,
+      "texto": "Construye disciplina con actuar con intención."
+    },
+    {
+      "id": 1658,
+      "texto": "Construye disciplina con actuar sin excusas."
+    },
+    {
+      "id": 1659,
+      "texto": "Construye disciplina con actuar mejor que ayer."
+    },
+    {
+      "id": 1660,
+      "texto": "Construye disciplina con actuar en serio."
+    },
+    {
+      "id": 1661,
+      "texto": "Construye disciplina con disciplina hoy."
+    },
+    {
+      "id": 1662,
+      "texto": "Construye disciplina con disciplina ahora."
+    },
+    {
+      "id": 1663,
+      "texto": "Construye disciplina con disciplina sin miedo."
+    },
+    {
+      "id": 1664,
+      "texto": "Construye disciplina con disciplina con humor."
+    },
+    {
+      "id": 1665,
+      "texto": "Construye disciplina con disciplina con ganas."
+    },
+    {
+      "id": 1666,
+      "texto": "Construye disciplina con disciplina a tu ritmo."
+    },
+    {
+      "id": 1667,
+      "texto": "Construye disciplina con disciplina con intención."
+    },
+    {
+      "id": 1668,
+      "texto": "Construye disciplina con disciplina sin excusas."
+    },
+    {
+      "id": 1669,
+      "texto": "Construye disciplina con disciplina mejor que ayer."
+    },
+    {
+      "id": 1670,
+      "texto": "Construye disciplina con disciplina en serio."
+    },
+    {
+      "id": 1671,
+      "texto": "Construye disciplina con enfoque hoy."
+    },
+    {
+      "id": 1672,
+      "texto": "Construye disciplina con enfoque ahora."
+    },
+    {
+      "id": 1673,
+      "texto": "Construye disciplina con enfoque sin miedo."
+    },
+    {
+      "id": 1674,
+      "texto": "Construye disciplina con enfoque con humor."
+    },
+    {
+      "id": 1675,
+      "texto": "Construye disciplina con enfoque con ganas."
+    },
+    {
+      "id": 1676,
+      "texto": "Construye disciplina con enfoque a tu ritmo."
+    },
+    {
+      "id": 1677,
+      "texto": "Construye disciplina con enfoque con intención."
+    },
+    {
+      "id": 1678,
+      "texto": "Construye disciplina con enfoque sin excusas."
+    },
+    {
+      "id": 1679,
+      "texto": "Construye disciplina con enfoque mejor que ayer."
+    },
+    {
+      "id": 1680,
+      "texto": "Construye disciplina con enfoque en serio."
+    },
+    {
+      "id": 1681,
+      "texto": "Construye disciplina con valentía hoy."
+    },
+    {
+      "id": 1682,
+      "texto": "Construye disciplina con valentía ahora."
+    },
+    {
+      "id": 1683,
+      "texto": "Construye disciplina con valentía sin miedo."
+    },
+    {
+      "id": 1684,
+      "texto": "Construye disciplina con valentía con humor."
+    },
+    {
+      "id": 1685,
+      "texto": "Construye disciplina con valentía con ganas."
+    },
+    {
+      "id": 1686,
+      "texto": "Construye disciplina con valentía a tu ritmo."
+    },
+    {
+      "id": 1687,
+      "texto": "Construye disciplina con valentía con intención."
+    },
+    {
+      "id": 1688,
+      "texto": "Construye disciplina con valentía sin excusas."
+    },
+    {
+      "id": 1689,
+      "texto": "Construye disciplina con valentía mejor que ayer."
+    },
+    {
+      "id": 1690,
+      "texto": "Construye disciplina con valentía en serio."
+    },
+    {
+      "id": 1691,
+      "texto": "Construye disciplina con constancia hoy."
+    },
+    {
+      "id": 1692,
+      "texto": "Construye disciplina con constancia ahora."
+    },
+    {
+      "id": 1693,
+      "texto": "Construye disciplina con constancia sin miedo."
+    },
+    {
+      "id": 1694,
+      "texto": "Construye disciplina con constancia con humor."
+    },
+    {
+      "id": 1695,
+      "texto": "Construye disciplina con constancia con ganas."
+    },
+    {
+      "id": 1696,
+      "texto": "Construye disciplina con constancia a tu ritmo."
+    },
+    {
+      "id": 1697,
+      "texto": "Construye disciplina con constancia con intención."
+    },
+    {
+      "id": 1698,
+      "texto": "Construye disciplina con constancia sin excusas."
+    },
+    {
+      "id": 1699,
+      "texto": "Construye disciplina con constancia mejor que ayer."
+    },
+    {
+      "id": 1700,
+      "texto": "Construye disciplina con constancia en serio."
+    },
+    {
+      "id": 1701,
+      "texto": "Construye disciplina con acción hoy."
+    },
+    {
+      "id": 1702,
+      "texto": "Construye disciplina con acción ahora."
+    },
+    {
+      "id": 1703,
+      "texto": "Construye disciplina con acción sin miedo."
+    },
+    {
+      "id": 1704,
+      "texto": "Construye disciplina con acción con humor."
+    },
+    {
+      "id": 1705,
+      "texto": "Construye disciplina con acción con ganas."
+    },
+    {
+      "id": 1706,
+      "texto": "Construye disciplina con acción a tu ritmo."
+    },
+    {
+      "id": 1707,
+      "texto": "Construye disciplina con acción con intención."
+    },
+    {
+      "id": 1708,
+      "texto": "Construye disciplina con acción sin excusas."
+    },
+    {
+      "id": 1709,
+      "texto": "Construye disciplina con acción mejor que ayer."
+    },
+    {
+      "id": 1710,
+      "texto": "Construye disciplina con acción en serio."
+    },
+    {
+      "id": 1711,
+      "texto": "Construye disciplina con errores hoy."
+    },
+    {
+      "id": 1712,
+      "texto": "Construye disciplina con errores ahora."
+    },
+    {
+      "id": 1713,
+      "texto": "Construye disciplina con errores sin miedo."
+    },
+    {
+      "id": 1714,
+      "texto": "Construye disciplina con errores con humor."
+    },
+    {
+      "id": 1715,
+      "texto": "Construye disciplina con errores con ganas."
+    },
+    {
+      "id": 1716,
+      "texto": "Construye disciplina con errores a tu ritmo."
+    },
+    {
+      "id": 1717,
+      "texto": "Construye disciplina con errores con intención."
+    },
+    {
+      "id": 1718,
+      "texto": "Construye disciplina con errores sin excusas."
+    },
+    {
+      "id": 1719,
+      "texto": "Construye disciplina con errores mejor que ayer."
+    },
+    {
+      "id": 1720,
+      "texto": "Construye disciplina con errores en serio."
+    },
+    {
+      "id": 1721,
+      "texto": "Construye disciplina con excusa hoy."
+    },
+    {
+      "id": 1722,
+      "texto": "Construye disciplina con excusa ahora."
+    },
+    {
+      "id": 1723,
+      "texto": "Construye disciplina con excusa sin miedo."
+    },
+    {
+      "id": 1724,
+      "texto": "Construye disciplina con excusa con humor."
+    },
+    {
+      "id": 1725,
+      "texto": "Construye disciplina con excusa con ganas."
+    },
+    {
+      "id": 1726,
+      "texto": "Construye disciplina con excusa a tu ritmo."
+    },
+    {
+      "id": 1727,
+      "texto": "Construye disciplina con excusa con intención."
+    },
+    {
+      "id": 1728,
+      "texto": "Construye disciplina con excusa sin excusas."
+    },
+    {
+      "id": 1729,
+      "texto": "Construye disciplina con excusa mejor que ayer."
+    },
+    {
+      "id": 1730,
+      "texto": "Construye disciplina con excusa en serio."
+    },
+    {
+      "id": 1731,
+      "texto": "Construye disciplina con comodidad hoy."
+    },
+    {
+      "id": 1732,
+      "texto": "Construye disciplina con comodidad ahora."
+    },
+    {
+      "id": 1733,
+      "texto": "Construye disciplina con comodidad sin miedo."
+    },
+    {
+      "id": 1734,
+      "texto": "Construye disciplina con comodidad con humor."
+    },
+    {
+      "id": 1735,
+      "texto": "Construye disciplina con comodidad con ganas."
+    },
+    {
+      "id": 1736,
+      "texto": "Construye disciplina con comodidad a tu ritmo."
+    },
+    {
+      "id": 1737,
+      "texto": "Construye disciplina con comodidad con intención."
+    },
+    {
+      "id": 1738,
+      "texto": "Construye disciplina con comodidad sin excusas."
+    },
+    {
+      "id": 1739,
+      "texto": "Construye disciplina con comodidad mejor que ayer."
+    },
+    {
+      "id": 1740,
+      "texto": "Construye disciplina con comodidad en serio."
+    },
+    {
+      "id": 1741,
+      "texto": "Construye disciplina con progreso hoy."
+    },
+    {
+      "id": 1742,
+      "texto": "Construye disciplina con progreso ahora."
+    },
+    {
+      "id": 1743,
+      "texto": "Construye disciplina con progreso sin miedo."
+    },
+    {
+      "id": 1744,
+      "texto": "Construye disciplina con progreso con humor."
+    },
+    {
+      "id": 1745,
+      "texto": "Construye disciplina con progreso con ganas."
+    },
+    {
+      "id": 1746,
+      "texto": "Construye disciplina con progreso a tu ritmo."
+    },
+    {
+      "id": 1747,
+      "texto": "Construye disciplina con progreso con intención."
+    },
+    {
+      "id": 1748,
+      "texto": "Construye disciplina con progreso sin excusas."
+    },
+    {
+      "id": 1749,
+      "texto": "Construye disciplina con progreso mejor que ayer."
+    },
+    {
+      "id": 1750,
+      "texto": "Construye disciplina con progreso en serio."
+    },
+    {
+      "id": 1751,
+      "texto": "Construye disciplina con energía hoy."
+    },
+    {
+      "id": 1752,
+      "texto": "Construye disciplina con energía ahora."
+    },
+    {
+      "id": 1753,
+      "texto": "Construye disciplina con energía sin miedo."
+    },
+    {
+      "id": 1754,
+      "texto": "Construye disciplina con energía con humor."
+    },
+    {
+      "id": 1755,
+      "texto": "Construye disciplina con energía con ganas."
+    },
+    {
+      "id": 1756,
+      "texto": "Construye disciplina con energía a tu ritmo."
+    },
+    {
+      "id": 1757,
+      "texto": "Construye disciplina con energía con intención."
+    },
+    {
+      "id": 1758,
+      "texto": "Construye disciplina con energía sin excusas."
+    },
+    {
+      "id": 1759,
+      "texto": "Construye disciplina con energía mejor que ayer."
+    },
+    {
+      "id": 1760,
+      "texto": "Construye disciplina con energía en serio."
+    },
+    {
+      "id": 1761,
+      "texto": "Construye disciplina con humor hoy."
+    },
+    {
+      "id": 1762,
+      "texto": "Construye disciplina con humor ahora."
+    },
+    {
+      "id": 1763,
+      "texto": "Construye disciplina con humor sin miedo."
+    },
+    {
+      "id": 1764,
+      "texto": "Construye disciplina con humor con humor."
+    },
+    {
+      "id": 1765,
+      "texto": "Construye disciplina con humor con ganas."
+    },
+    {
+      "id": 1766,
+      "texto": "Construye disciplina con humor a tu ritmo."
+    },
+    {
+      "id": 1767,
+      "texto": "Construye disciplina con humor con intención."
+    },
+    {
+      "id": 1768,
+      "texto": "Construye disciplina con humor sin excusas."
+    },
+    {
+      "id": 1769,
+      "texto": "Construye disciplina con humor mejor que ayer."
+    },
+    {
+      "id": 1770,
+      "texto": "Construye disciplina con humor en serio."
+    },
+    {
+      "id": 1771,
+      "texto": "Construye disciplina con paciencia hoy."
+    },
+    {
+      "id": 1772,
+      "texto": "Construye disciplina con paciencia ahora."
+    },
+    {
+      "id": 1773,
+      "texto": "Construye disciplina con paciencia sin miedo."
+    },
+    {
+      "id": 1774,
+      "texto": "Construye disciplina con paciencia con humor."
+    },
+    {
+      "id": 1775,
+      "texto": "Construye disciplina con paciencia con ganas."
+    },
+    {
+      "id": 1776,
+      "texto": "Construye disciplina con paciencia a tu ritmo."
+    },
+    {
+      "id": 1777,
+      "texto": "Construye disciplina con paciencia con intención."
+    },
+    {
+      "id": 1778,
+      "texto": "Construye disciplina con paciencia sin excusas."
+    },
+    {
+      "id": 1779,
+      "texto": "Construye disciplina con paciencia mejor que ayer."
+    },
+    {
+      "id": 1780,
+      "texto": "Construye disciplina con paciencia en serio."
+    },
+    {
+      "id": 1781,
+      "texto": "Construye disciplina con intención hoy."
+    },
+    {
+      "id": 1782,
+      "texto": "Construye disciplina con intención ahora."
+    },
+    {
+      "id": 1783,
+      "texto": "Construye disciplina con intención sin miedo."
+    },
+    {
+      "id": 1784,
+      "texto": "Construye disciplina con intención con humor."
+    },
+    {
+      "id": 1785,
+      "texto": "Construye disciplina con intención con ganas."
+    },
+    {
+      "id": 1786,
+      "texto": "Construye disciplina con intención a tu ritmo."
+    },
+    {
+      "id": 1787,
+      "texto": "Construye disciplina con intención con intención."
+    },
+    {
+      "id": 1788,
+      "texto": "Construye disciplina con intención sin excusas."
+    },
+    {
+      "id": 1789,
+      "texto": "Construye disciplina con intención mejor que ayer."
+    },
+    {
+      "id": 1790,
+      "texto": "Construye disciplina con intención en serio."
+    },
+    {
+      "id": 1791,
+      "texto": "Construye disciplina con determinación hoy."
+    },
+    {
+      "id": 1792,
+      "texto": "Construye disciplina con determinación ahora."
+    },
+    {
+      "id": 1793,
+      "texto": "Construye disciplina con determinación sin miedo."
+    },
+    {
+      "id": 1794,
+      "texto": "Construye disciplina con determinación con humor."
+    },
+    {
+      "id": 1795,
+      "texto": "Construye disciplina con determinación con ganas."
+    },
+    {
+      "id": 1796,
+      "texto": "Construye disciplina con determinación a tu ritmo."
+    },
+    {
+      "id": 1797,
+      "texto": "Construye disciplina con determinación con intención."
+    },
+    {
+      "id": 1798,
+      "texto": "Construye disciplina con determinación sin excusas."
+    },
+    {
+      "id": 1799,
+      "texto": "Construye disciplina con determinación mejor que ayer."
+    },
+    {
+      "id": 1800,
+      "texto": "Construye disciplina con determinación en serio."
+    },
+    {
+      "id": 1801,
+      "texto": "Gana foco en empezar hoy."
+    },
+    {
+      "id": 1802,
+      "texto": "Gana foco en empezar ahora."
+    },
+    {
+      "id": 1803,
+      "texto": "Gana foco en empezar sin miedo."
+    },
+    {
+      "id": 1804,
+      "texto": "Gana foco en empezar con humor."
+    },
+    {
+      "id": 1805,
+      "texto": "Gana foco en empezar con ganas."
+    },
+    {
+      "id": 1806,
+      "texto": "Gana foco en empezar a tu ritmo."
+    },
+    {
+      "id": 1807,
+      "texto": "Gana foco en empezar con intención."
+    },
+    {
+      "id": 1808,
+      "texto": "Gana foco en empezar sin excusas."
+    },
+    {
+      "id": 1809,
+      "texto": "Gana foco en empezar mejor que ayer."
+    },
+    {
+      "id": 1810,
+      "texto": "Gana foco en empezar en serio."
+    },
+    {
+      "id": 1811,
+      "texto": "Gana foco en crecer hoy."
+    },
+    {
+      "id": 1812,
+      "texto": "Gana foco en crecer ahora."
+    },
+    {
+      "id": 1813,
+      "texto": "Gana foco en crecer sin miedo."
+    },
+    {
+      "id": 1814,
+      "texto": "Gana foco en crecer con humor."
+    },
+    {
+      "id": 1815,
+      "texto": "Gana foco en crecer con ganas."
+    },
+    {
+      "id": 1816,
+      "texto": "Gana foco en crecer a tu ritmo."
+    },
+    {
+      "id": 1817,
+      "texto": "Gana foco en crecer con intención."
+    },
+    {
+      "id": 1818,
+      "texto": "Gana foco en crecer sin excusas."
+    },
+    {
+      "id": 1819,
+      "texto": "Gana foco en crecer mejor que ayer."
+    },
+    {
+      "id": 1820,
+      "texto": "Gana foco en crecer en serio."
+    },
+    {
+      "id": 1821,
+      "texto": "Gana foco en intentar hoy."
+    },
+    {
+      "id": 1822,
+      "texto": "Gana foco en intentar ahora."
+    },
+    {
+      "id": 1823,
+      "texto": "Gana foco en intentar sin miedo."
+    },
+    {
+      "id": 1824,
+      "texto": "Gana foco en intentar con humor."
+    },
+    {
+      "id": 1825,
+      "texto": "Gana foco en intentar con ganas."
+    },
+    {
+      "id": 1826,
+      "texto": "Gana foco en intentar a tu ritmo."
+    },
+    {
+      "id": 1827,
+      "texto": "Gana foco en intentar con intención."
+    },
+    {
+      "id": 1828,
+      "texto": "Gana foco en intentar sin excusas."
+    },
+    {
+      "id": 1829,
+      "texto": "Gana foco en intentar mejor que ayer."
+    },
+    {
+      "id": 1830,
+      "texto": "Gana foco en intentar en serio."
+    },
+    {
+      "id": 1831,
+      "texto": "Gana foco en mejorar hoy."
+    },
+    {
+      "id": 1832,
+      "texto": "Gana foco en mejorar ahora."
+    },
+    {
+      "id": 1833,
+      "texto": "Gana foco en mejorar sin miedo."
+    },
+    {
+      "id": 1834,
+      "texto": "Gana foco en mejorar con humor."
+    },
+    {
+      "id": 1835,
+      "texto": "Gana foco en mejorar con ganas."
+    },
+    {
+      "id": 1836,
+      "texto": "Gana foco en mejorar a tu ritmo."
+    },
+    {
+      "id": 1837,
+      "texto": "Gana foco en mejorar con intención."
+    },
+    {
+      "id": 1838,
+      "texto": "Gana foco en mejorar sin excusas."
+    },
+    {
+      "id": 1839,
+      "texto": "Gana foco en mejorar mejor que ayer."
+    },
+    {
+      "id": 1840,
+      "texto": "Gana foco en mejorar en serio."
+    },
+    {
+      "id": 1841,
+      "texto": "Gana foco en aprender hoy."
+    },
+    {
+      "id": 1842,
+      "texto": "Gana foco en aprender ahora."
+    },
+    {
+      "id": 1843,
+      "texto": "Gana foco en aprender sin miedo."
+    },
+    {
+      "id": 1844,
+      "texto": "Gana foco en aprender con humor."
+    },
+    {
+      "id": 1845,
+      "texto": "Gana foco en aprender con ganas."
+    },
+    {
+      "id": 1846,
+      "texto": "Gana foco en aprender a tu ritmo."
+    },
+    {
+      "id": 1847,
+      "texto": "Gana foco en aprender con intención."
+    },
+    {
+      "id": 1848,
+      "texto": "Gana foco en aprender sin excusas."
+    },
+    {
+      "id": 1849,
+      "texto": "Gana foco en aprender mejor que ayer."
+    },
+    {
+      "id": 1850,
+      "texto": "Gana foco en aprender en serio."
+    },
+    {
+      "id": 1851,
+      "texto": "Gana foco en actuar hoy."
+    },
+    {
+      "id": 1852,
+      "texto": "Gana foco en actuar ahora."
+    },
+    {
+      "id": 1853,
+      "texto": "Gana foco en actuar sin miedo."
+    },
+    {
+      "id": 1854,
+      "texto": "Gana foco en actuar con humor."
+    },
+    {
+      "id": 1855,
+      "texto": "Gana foco en actuar con ganas."
+    },
+    {
+      "id": 1856,
+      "texto": "Gana foco en actuar a tu ritmo."
+    },
+    {
+      "id": 1857,
+      "texto": "Gana foco en actuar con intención."
+    },
+    {
+      "id": 1858,
+      "texto": "Gana foco en actuar sin excusas."
+    },
+    {
+      "id": 1859,
+      "texto": "Gana foco en actuar mejor que ayer."
+    },
+    {
+      "id": 1860,
+      "texto": "Gana foco en actuar en serio."
+    },
+    {
+      "id": 1861,
+      "texto": "Gana foco en disciplina hoy."
+    },
+    {
+      "id": 1862,
+      "texto": "Gana foco en disciplina ahora."
+    },
+    {
+      "id": 1863,
+      "texto": "Gana foco en disciplina sin miedo."
+    },
+    {
+      "id": 1864,
+      "texto": "Gana foco en disciplina con humor."
+    },
+    {
+      "id": 1865,
+      "texto": "Gana foco en disciplina con ganas."
+    },
+    {
+      "id": 1866,
+      "texto": "Gana foco en disciplina a tu ritmo."
+    },
+    {
+      "id": 1867,
+      "texto": "Gana foco en disciplina con intención."
+    },
+    {
+      "id": 1868,
+      "texto": "Gana foco en disciplina sin excusas."
+    },
+    {
+      "id": 1869,
+      "texto": "Gana foco en disciplina mejor que ayer."
+    },
+    {
+      "id": 1870,
+      "texto": "Gana foco en disciplina en serio."
+    },
+    {
+      "id": 1871,
+      "texto": "Gana foco en enfoque hoy."
+    },
+    {
+      "id": 1872,
+      "texto": "Gana foco en enfoque ahora."
+    },
+    {
+      "id": 1873,
+      "texto": "Gana foco en enfoque sin miedo."
+    },
+    {
+      "id": 1874,
+      "texto": "Gana foco en enfoque con humor."
+    },
+    {
+      "id": 1875,
+      "texto": "Gana foco en enfoque con ganas."
+    },
+    {
+      "id": 1876,
+      "texto": "Gana foco en enfoque a tu ritmo."
+    },
+    {
+      "id": 1877,
+      "texto": "Gana foco en enfoque con intención."
+    },
+    {
+      "id": 1878,
+      "texto": "Gana foco en enfoque sin excusas."
+    },
+    {
+      "id": 1879,
+      "texto": "Gana foco en enfoque mejor que ayer."
+    },
+    {
+      "id": 1880,
+      "texto": "Gana foco en enfoque en serio."
+    },
+    {
+      "id": 1881,
+      "texto": "Gana foco en valentía hoy."
+    },
+    {
+      "id": 1882,
+      "texto": "Gana foco en valentía ahora."
+    },
+    {
+      "id": 1883,
+      "texto": "Gana foco en valentía sin miedo."
+    },
+    {
+      "id": 1884,
+      "texto": "Gana foco en valentía con humor."
+    },
+    {
+      "id": 1885,
+      "texto": "Gana foco en valentía con ganas."
+    },
+    {
+      "id": 1886,
+      "texto": "Gana foco en valentía a tu ritmo."
+    },
+    {
+      "id": 1887,
+      "texto": "Gana foco en valentía con intención."
+    },
+    {
+      "id": 1888,
+      "texto": "Gana foco en valentía sin excusas."
+    },
+    {
+      "id": 1889,
+      "texto": "Gana foco en valentía mejor que ayer."
+    },
+    {
+      "id": 1890,
+      "texto": "Gana foco en valentía en serio."
+    },
+    {
+      "id": 1891,
+      "texto": "Gana foco en constancia hoy."
+    },
+    {
+      "id": 1892,
+      "texto": "Gana foco en constancia ahora."
+    },
+    {
+      "id": 1893,
+      "texto": "Gana foco en constancia sin miedo."
+    },
+    {
+      "id": 1894,
+      "texto": "Gana foco en constancia con humor."
+    },
+    {
+      "id": 1895,
+      "texto": "Gana foco en constancia con ganas."
+    },
+    {
+      "id": 1896,
+      "texto": "Gana foco en constancia a tu ritmo."
+    },
+    {
+      "id": 1897,
+      "texto": "Gana foco en constancia con intención."
+    },
+    {
+      "id": 1898,
+      "texto": "Gana foco en constancia sin excusas."
+    },
+    {
+      "id": 1899,
+      "texto": "Gana foco en constancia mejor que ayer."
+    },
+    {
+      "id": 1900,
+      "texto": "Gana foco en constancia en serio."
+    },
+    {
+      "id": 1901,
+      "texto": "Gana foco en acción hoy."
+    },
+    {
+      "id": 1902,
+      "texto": "Gana foco en acción ahora."
+    },
+    {
+      "id": 1903,
+      "texto": "Gana foco en acción sin miedo."
+    },
+    {
+      "id": 1904,
+      "texto": "Gana foco en acción con humor."
+    },
+    {
+      "id": 1905,
+      "texto": "Gana foco en acción con ganas."
+    },
+    {
+      "id": 1906,
+      "texto": "Gana foco en acción a tu ritmo."
+    },
+    {
+      "id": 1907,
+      "texto": "Gana foco en acción con intención."
+    },
+    {
+      "id": 1908,
+      "texto": "Gana foco en acción sin excusas."
+    },
+    {
+      "id": 1909,
+      "texto": "Gana foco en acción mejor que ayer."
+    },
+    {
+      "id": 1910,
+      "texto": "Gana foco en acción en serio."
+    },
+    {
+      "id": 1911,
+      "texto": "Gana foco en errores hoy."
+    },
+    {
+      "id": 1912,
+      "texto": "Gana foco en errores ahora."
+    },
+    {
+      "id": 1913,
+      "texto": "Gana foco en errores sin miedo."
+    },
+    {
+      "id": 1914,
+      "texto": "Gana foco en errores con humor."
+    },
+    {
+      "id": 1915,
+      "texto": "Gana foco en errores con ganas."
+    },
+    {
+      "id": 1916,
+      "texto": "Gana foco en errores a tu ritmo."
+    },
+    {
+      "id": 1917,
+      "texto": "Gana foco en errores con intención."
+    },
+    {
+      "id": 1918,
+      "texto": "Gana foco en errores sin excusas."
+    },
+    {
+      "id": 1919,
+      "texto": "Gana foco en errores mejor que ayer."
+    },
+    {
+      "id": 1920,
+      "texto": "Gana foco en errores en serio."
+    },
+    {
+      "id": 1921,
+      "texto": "Gana foco en excusa hoy."
+    },
+    {
+      "id": 1922,
+      "texto": "Gana foco en excusa ahora."
+    },
+    {
+      "id": 1923,
+      "texto": "Gana foco en excusa sin miedo."
+    },
+    {
+      "id": 1924,
+      "texto": "Gana foco en excusa con humor."
+    },
+    {
+      "id": 1925,
+      "texto": "Gana foco en excusa con ganas."
+    },
+    {
+      "id": 1926,
+      "texto": "Gana foco en excusa a tu ritmo."
+    },
+    {
+      "id": 1927,
+      "texto": "Gana foco en excusa con intención."
+    },
+    {
+      "id": 1928,
+      "texto": "Gana foco en excusa sin excusas."
+    },
+    {
+      "id": 1929,
+      "texto": "Gana foco en excusa mejor que ayer."
+    },
+    {
+      "id": 1930,
+      "texto": "Gana foco en excusa en serio."
+    },
+    {
+      "id": 1931,
+      "texto": "Gana foco en comodidad hoy."
+    },
+    {
+      "id": 1932,
+      "texto": "Gana foco en comodidad ahora."
+    },
+    {
+      "id": 1933,
+      "texto": "Gana foco en comodidad sin miedo."
+    },
+    {
+      "id": 1934,
+      "texto": "Gana foco en comodidad con humor."
+    },
+    {
+      "id": 1935,
+      "texto": "Gana foco en comodidad con ganas."
+    },
+    {
+      "id": 1936,
+      "texto": "Gana foco en comodidad a tu ritmo."
+    },
+    {
+      "id": 1937,
+      "texto": "Gana foco en comodidad con intención."
+    },
+    {
+      "id": 1938,
+      "texto": "Gana foco en comodidad sin excusas."
+    },
+    {
+      "id": 1939,
+      "texto": "Gana foco en comodidad mejor que ayer."
+    },
+    {
+      "id": 1940,
+      "texto": "Gana foco en comodidad en serio."
+    },
+    {
+      "id": 1941,
+      "texto": "Gana foco en progreso hoy."
+    },
+    {
+      "id": 1942,
+      "texto": "Gana foco en progreso ahora."
+    },
+    {
+      "id": 1943,
+      "texto": "Gana foco en progreso sin miedo."
+    },
+    {
+      "id": 1944,
+      "texto": "Gana foco en progreso con humor."
+    },
+    {
+      "id": 1945,
+      "texto": "Gana foco en progreso con ganas."
+    },
+    {
+      "id": 1946,
+      "texto": "Gana foco en progreso a tu ritmo."
+    },
+    {
+      "id": 1947,
+      "texto": "Gana foco en progreso con intención."
+    },
+    {
+      "id": 1948,
+      "texto": "Gana foco en progreso sin excusas."
+    },
+    {
+      "id": 1949,
+      "texto": "Gana foco en progreso mejor que ayer."
+    },
+    {
+      "id": 1950,
+      "texto": "Gana foco en progreso en serio."
+    },
+    {
+      "id": 1951,
+      "texto": "Gana foco en energía hoy."
+    },
+    {
+      "id": 1952,
+      "texto": "Gana foco en energía ahora."
+    },
+    {
+      "id": 1953,
+      "texto": "Gana foco en energía sin miedo."
+    },
+    {
+      "id": 1954,
+      "texto": "Gana foco en energía con humor."
+    },
+    {
+      "id": 1955,
+      "texto": "Gana foco en energía con ganas."
+    },
+    {
+      "id": 1956,
+      "texto": "Gana foco en energía a tu ritmo."
+    },
+    {
+      "id": 1957,
+      "texto": "Gana foco en energía con intención."
+    },
+    {
+      "id": 1958,
+      "texto": "Gana foco en energía sin excusas."
+    },
+    {
+      "id": 1959,
+      "texto": "Gana foco en energía mejor que ayer."
+    },
+    {
+      "id": 1960,
+      "texto": "Gana foco en energía en serio."
+    },
+    {
+      "id": 1961,
+      "texto": "Gana foco en humor hoy."
+    },
+    {
+      "id": 1962,
+      "texto": "Gana foco en humor ahora."
+    },
+    {
+      "id": 1963,
+      "texto": "Gana foco en humor sin miedo."
+    },
+    {
+      "id": 1964,
+      "texto": "Gana foco en humor con humor."
+    },
+    {
+      "id": 1965,
+      "texto": "Gana foco en humor con ganas."
+    },
+    {
+      "id": 1966,
+      "texto": "Gana foco en humor a tu ritmo."
+    },
+    {
+      "id": 1967,
+      "texto": "Gana foco en humor con intención."
+    },
+    {
+      "id": 1968,
+      "texto": "Gana foco en humor sin excusas."
+    },
+    {
+      "id": 1969,
+      "texto": "Gana foco en humor mejor que ayer."
+    },
+    {
+      "id": 1970,
+      "texto": "Gana foco en humor en serio."
+    },
+    {
+      "id": 1971,
+      "texto": "Gana foco en paciencia hoy."
+    },
+    {
+      "id": 1972,
+      "texto": "Gana foco en paciencia ahora."
+    },
+    {
+      "id": 1973,
+      "texto": "Gana foco en paciencia sin miedo."
+    },
+    {
+      "id": 1974,
+      "texto": "Gana foco en paciencia con humor."
+    },
+    {
+      "id": 1975,
+      "texto": "Gana foco en paciencia con ganas."
+    },
+    {
+      "id": 1976,
+      "texto": "Gana foco en paciencia a tu ritmo."
+    },
+    {
+      "id": 1977,
+      "texto": "Gana foco en paciencia con intención."
+    },
+    {
+      "id": 1978,
+      "texto": "Gana foco en paciencia sin excusas."
+    },
+    {
+      "id": 1979,
+      "texto": "Gana foco en paciencia mejor que ayer."
+    },
+    {
+      "id": 1980,
+      "texto": "Gana foco en paciencia en serio."
+    },
+    {
+      "id": 1981,
+      "texto": "Gana foco en intención hoy."
+    },
+    {
+      "id": 1982,
+      "texto": "Gana foco en intención ahora."
+    },
+    {
+      "id": 1983,
+      "texto": "Gana foco en intención sin miedo."
+    },
+    {
+      "id": 1984,
+      "texto": "Gana foco en intención con humor."
+    },
+    {
+      "id": 1985,
+      "texto": "Gana foco en intención con ganas."
+    },
+    {
+      "id": 1986,
+      "texto": "Gana foco en intención a tu ritmo."
+    },
+    {
+      "id": 1987,
+      "texto": "Gana foco en intención con intención."
+    },
+    {
+      "id": 1988,
+      "texto": "Gana foco en intención sin excusas."
+    },
+    {
+      "id": 1989,
+      "texto": "Gana foco en intención mejor que ayer."
+    },
+    {
+      "id": 1990,
+      "texto": "Gana foco en intención en serio."
+    },
+    {
+      "id": 1991,
+      "texto": "Gana foco en determinación hoy."
+    },
+    {
+      "id": 1992,
+      "texto": "Gana foco en determinación ahora."
+    },
+    {
+      "id": 1993,
+      "texto": "Gana foco en determinación sin miedo."
+    },
+    {
+      "id": 1994,
+      "texto": "Gana foco en determinación con humor."
+    },
+    {
+      "id": 1995,
+      "texto": "Gana foco en determinación con ganas."
+    },
+    {
+      "id": 1996,
+      "texto": "Gana foco en determinación a tu ritmo."
+    },
+    {
+      "id": 1997,
+      "texto": "Gana foco en determinación con intención."
+    },
+    {
+      "id": 1998,
+      "texto": "Gana foco en determinación sin excusas."
+    },
+    {
+      "id": 1999,
+      "texto": "Gana foco en determinación mejor que ayer."
+    },
+    {
+      "id": 2000,
+      "texto": "Gana foco en determinación en serio."
+    }
+  ]
+}
